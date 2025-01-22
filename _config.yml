@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hangbei Cheng's Academic homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hangbei Cheng"
 description              : &description "personal description"
 url                      : https://chenghangbei0702.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/phone.png"
+  avatar           : "phone.png"
   name             : "Hangbei Cheng"
   pronouns         : # example: "she/her"  
   bio              : "A researcher in intelligent medical imaging algorithms"
