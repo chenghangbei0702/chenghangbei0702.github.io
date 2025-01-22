@@ -21,7 +21,7 @@ repository               : "chenghangbei0702/chenghangbei0702.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "phone.png"
   name             : "Hangbei Cheng"
   pronouns         : # example: "she/her"  
   bio              : "A researcher in intelligent medical imaging algorithms"
