@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /portfolio/
+    url: /porjects/
 
   - title: "Educations"
     url: /teaching/ 
@@ -22,6 +22,10 @@ main:
 
   - title: "Research life"
     url: /News/
+
+   - title: "Files"
+    url: /files/
+    
     
   - title: "CV"
     url: /cv/
