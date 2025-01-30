@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-🧍‍♂️ Biography **Cheng Hangbei (成航北)**
+# 🧍‍♂️ Biography ---Cheng Hangbei (成航北)
 
 Master's Student | Researcher in Intelligent Medical Image Computing
 
@@ -26,7 +25,7 @@ If you are interested in my research or potential collaborations, feel free to c
 
 # 🔥 News
 
-- *2024.10*: &nbsp;🎉🎉 Received the National Scholarship for Postgraduate.
+- 
 
 
 # 📝 Publications 
