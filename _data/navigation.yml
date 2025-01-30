@@ -22,9 +22,6 @@ main:
 
   - title: "Research life"
     url: /News/
-
-  - title: "Files"
-    url: /files/
     
   - title: "CV"
     url: /cv/
