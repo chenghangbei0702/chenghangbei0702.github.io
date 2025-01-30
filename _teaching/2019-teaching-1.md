@@ -1,7 +1,7 @@
 ---
-title: "2019-2023"
+title: "2019.09-2023.06"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/2019-teaching-1
 venue: "College of Data Science, Taiyuan University of Technology"
 date: 2019-09-01
@@ -9,7 +9,6 @@ location: " Taiyuan, Shanxi, China"
 ---
 
 **Bachelor's Degree**
-======
 
 **Major**: Data Science and Big Data Technology
 
