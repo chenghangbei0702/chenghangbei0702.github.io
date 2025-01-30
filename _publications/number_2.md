@@ -1,5 +1,5 @@
 ---
-title: "iagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators"
+title: "Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators"
 collection: publications
 category: manuscripts
 permalink: /publication/number_2
