@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Paper"
+title: "Papers"
 permalink: /paper/
 ---
 等待更新
