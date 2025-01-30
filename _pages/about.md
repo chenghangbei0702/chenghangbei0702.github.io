@@ -11,7 +11,7 @@ redirect_from:
 ======
 Master's Student | Researcher in Intelligent Medical Image Computing
 
-I am a master's student (Class of 2023) at Taiyuan University of Technology (TYUT), under the supervision of **Associate Professor Wu Yongfei**. I am a member of the TYUT Intelligent Medicine and Biometric Laboratory (IMBR), and my research primarily focuses on intelligent analysis of medical images, with key interests in:
+I am a master's student (Class of 2023) at [School of CCST](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/), under the supervision of [**Associate Professor Wu Yongfei**](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm). I am a member of the [TYUT Intelligent Medicine and Biometric Laboratory (IMBR)](https://lab.rjmart.cn/10579/3146DDB7959849F4), and my research primarily focuses on intelligent analysis of medical images, with key interests in:
 
 1. **Intelligent Lesion Segmentation in Pathological Images** – Exploring efficient and precise deep learning methods to enhance automation in lesion detection and recognition.
 2. **Segmentation of Incompletely or Imprecisely Labeled Medical Images** – Investigating weakly supervised and semi-supervised learning approaches to address the challenges of high annotation costs and inconsistent quality in medical data.
@@ -21,13 +21,7 @@ Additionally, I have experience in **federated learning security defenses** and 
 
 If you are interested in my research or potential collaborations, feel free to contact me via the provided details!
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](chenghangbei0702@163.com) / [Github](https://github.com/chenghangbei0702) 
 
 For more info
 ------
