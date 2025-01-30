@@ -208,9 +208,6 @@ collections:
   News:
     output: true
     permalink: /:collection/:path/
-  Papers:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -281,15 +278,6 @@ defaults:
   - scope:
       path: ""
       type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _paper
-  - scope:
-      path: ""
-      type: paper
     values:
       layout: single
       author_profile: true
