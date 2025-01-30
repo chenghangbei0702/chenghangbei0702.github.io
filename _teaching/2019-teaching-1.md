@@ -9,10 +9,16 @@ location: " Taiyuan, Shanxi, China"
 ---
 
 **Bachelor's Degree**
+======
+
 **Major**: Data Science and Big Data Technology
+
 **College**: College of Big Data
+
 **Key Subjects**: Machine Learning, Deep Learning, Data Structures, Python, Data Mining, Digital Image Processing, etc.**（GPA: 4.35）**
+
 **Graduation Date**: June 2023 (Granted exemption for postgraduate admission in scientific innovation in September 2022)
+
 **Graduation Thesis**: *Global and Local Collaborated Learning for Weakly Supervised Semantic Segmentation with Noisy Labels* [**2023 Taiyuan University of Technology Excellent Graduation Thesis**]
 
 **Leadership Roles**:
@@ -38,5 +44,4 @@ location: " Taiyuan, Shanxi, China"
 5. **National College Student Mathematical Modeling Competition** - Shanxi Provincial Third Prize
 6. 3 National-level Awards, 21 Provincial-level Awards in various competitions
 
-Heading 3
-======
+
