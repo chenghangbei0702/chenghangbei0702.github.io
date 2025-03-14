@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hangbei Cheng's Academic homepage"
-description              : "Master’s Student"
+description              : "A researcher in intelligent medical imaging algorithms"
 repository               : "chenghangbei0702/chenghangbei0702.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hangbei Cheng(成航北)"
+  name             : "Hangbei Cheng  (成航北)"
   avatar           : "images/chenghangbei.png"
-  bio              : "A researcher in intelligent medical imaging algorithms"
+  bio              : "Master’s Student"
   location         : "TaiYuan, Shanxi, China"
   employer         : "Taiyuan University of Technology"
   pubmed           : 
