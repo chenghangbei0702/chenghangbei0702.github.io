@@ -17,10 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a master's student (Class of 2023) at [School of CCST](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/), under the supervision of [**Associate Professor Wu Yongfei**](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm). I am a member of the [TYUT Intelligent Medicine and Biometric Laboratory (IMBR)](https://lab.rjmart.cn/10579/3146DDB7959849F4), and my research primarily focuses on intelligent analysis of medical images, with key interests in:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-  **Intelligent Lesion Segmentation in Pathological Images** 
+-  **Segmentation of Incompletely or Imprecisely Labeled Medical Images** 
+-  **Research and Applications of Large Medical Vision Models** 
 
+Additionally, I have experience in **federated learning security defenses** and **face anti-spoofing**, particularly in their applications for medical privacy protection and biometric recognition. 
+Recently, I have been interested in the application of **embodied intelligence in the medical field** and am actively exploring ways to advance the integration of intelligent medical imaging into clinical practice.
+
+If you are interested in my research or potential collaborations, feel free to contact me via the provided details!
+
+[Email](chenghangbei0702@163.com) / [Github](https://github.com/chenghangbei0702) 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
