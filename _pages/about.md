@@ -37,16 +37,21 @@ If you are interested in my research or potential collaborations, feel free to c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Seg‑
-mentation in Histopathology Images] Expert Systems with Applications（SCI‑1区 TOP）
+mentation in Histopathology Images] 
 
+Expert Systems with Applications（SCI‑1区 TOP） 1st revision
 **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu,∗
 
 [Paper] | [**Code**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/chenghangbei0702/GLMKD-WSSS)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Highlights**
+- A novel weakly-supervised segmentation framework is proposed to enhance lesion delineation in digital pathology images by integrating global and local information.
+- This study is the first to combine global supervisory information and multi-scale MIL via dual-stream knowledge distillation in a WSSS framework.
+- A multi-scale multi-instance learning model (MMIL) is designed to capture subtle variations in lesions across different scales.
+- A shape transfer loss function is introduced to facilitate effective information exchange between global and local contexts during the dual-flow mutual knowledge distillation (MKD) segmentation phase.
 </div>
 </div>
 
