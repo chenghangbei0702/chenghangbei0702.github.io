@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hangbei Cheng's Academic homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "A researcher in intelligent medical imaging algorithms. "
 repository               : "chenghangbei0702/chenghangbei0702.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=65HgDTwAAAAJ&view_op=list_works&gmla=AGd7smFV9YY0FKlrisSzdrgvyhF2QClTh9XDnmhKZSldA8xX_xWNBipGBXNJBk46AN3r_YsHT052UvssWCPzq6U"
   email            : "chenghangbei0702@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/hangbei-chenghangbei?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
