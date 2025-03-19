@@ -32,9 +32,6 @@ If you are interested in my research or potential collaborations, feel free to c
 
 [Email](chenghangbei0702@163.com) / [Github](https://github.com/chenghangbei0702) 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="sym" width="100%"></div></div>
