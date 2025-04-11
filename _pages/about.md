@@ -37,7 +37,7 @@ If you are interested in my research or potential collaborations, feel free to c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Seg‑mentation in Histopathology Images**
+[**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Seg‑mentation in Histopathology Images**](https://www.sciencedirect.com/science/article/pii/S0957417425010474)
 
 Expert Systems with Applications**（SCI‑1区 TOP）**  Accept
 
