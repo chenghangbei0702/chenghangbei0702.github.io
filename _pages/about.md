@@ -37,11 +37,11 @@ If you are interested in my research or potential collaborations, feel free to c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Seg‑mentation in Histopathology Images**](https://www.sciencedirect.com/science/article/pii/S0957417425010474)
+1. [**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Seg‑mentation in Histopathology Images**](https://www.sciencedirect.com/science/article/pii/S0957417425010474)
 
-Expert Systems with Applications**（SCI‑1区 TOP）**  Accept
+Expert Systems with Applications**(SCI‑Q1 TOP, IF=7.6)**  Accept
 
-**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu,∗
+**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu∗
 
 [Paper] | [[**Code**]]([https://github.com/chenghangbei0702/GLMKD-WSSS]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -57,18 +57,32 @@ Expert Systems with Applications**（SCI‑1区 TOP）**  Accept
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/MAMBA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FMaMIL: FFT enchanced vision Mamba Multi-instance learning for Weakly Supervised Lesion Segmentation in Medical Images
+2. FMaMIL: FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation in Medical Images
 
-IEEE Transactions on Circuits and Systems for Video Technology**（SCI‑1区 TOP \ CCF-B类期刊）** With editor
+Medical Image Analysis(**（SCI‑Q1 TOP \ CCF-B, Top Medical Journal, IF=10.7）** 1st Under Review
 
-**Hangbei Cheng** , Xiaorong Dong , Daoxi Cao , Xuehan Zhang , Xinyi Li , Ruolin Zhou , Xueyu Liu ,Yongfei Wu* 
+**Hangbei Cheng** , Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu*
 
 [Paper] | [[**Code**]]([https://github.com/chenghangbei0702/MambaMIL]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 **Highlights**
-- We propose a novel MIL framework with linear computational complexity, effectively integrating spatial and frequency-domain features to comprehensively capture inter-instance correlations. To our knowledge, this is the first work to incorporate both Mamba and frequencydomain information into MIL.
-- We design a learnable frequency-domain feature encoding approach based on Fourier transform and inverse transform. By employing parameterized frequency-domain weights for feature transformation, this method replaces traditional handcrafted filtering approaches, significantly enhancing the model’s expressive capacity.
-- We extend the application of bidirectional scanning methods to two-dimensional space, improving Mamba’s ability to understand contextual information in pathological images. Additionally, we integrate a multi-head attentionbased instance-to-bag classifier, further boosting segmentation performance in lesion identification tasks.
+- We propose FMaMIL, the first Mamba-based MIL framework enhanced with learnable frequency-domain encoding for weakly supervised lesion segmentation using only image-level labels.
+- A bidirectional spatial scanning strategy is introduced to model contextual structures in pathology images more effectively.
+- A CAM-guided pseudo-label refinement strategy with soft supervision and self-correction enhances segmentation under label noise.
+- Our method achieves state-of-the-art segmentation performance on both public and private histopathology datasets without relying on pixel-level annotations.
+
+3. [First Author] FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images, Pattern Recognition and Computer Vision (PRCV) (CCF-C Conference), 2025 (Submitted)
+4. [Second Author] A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Classification, Information Fusion (SCI-Q1 TOP, IF=15.5), 2025 (With Editor)
+5. [Second Author / Undergraduate Advisor] DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification, Biomedical Signal Processing and Control (SCI-Q2, IF=4.9), 2025 (1st Under Review)
+6. [Third Author / First Author is Supervisor] MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning, Knowledge-Based Systems (SCI-Q1 TOP, IF=7.2), 2025 (2nd RRC)
+7. [Third Author] Face Anti-Spoofing Model with Online Distillation of Local and Global Features, ACM International Conference on Multimedia (CCF-A Conference), 2025 (Rebuttal, Avg. Score: 5.8)
+8. [Third Author / Undergraduate Advisor] LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation, Computer Methods and Programs in Biomedicine (SCI-Q2, IF=4.8), 2025(With Editor)
+9. [Second Author / Undergraduate Advisor] DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images, JVCIR (CCF-C Journal, IF=3.1), 2025 (1st Under Review)
+10. [Co-author] Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation, PRCV (CCF-C Conference), 2025 (Submitted)
+11. [Co-author] MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta Learning Framework, IEEE JBHI (SCI-Q2 TOP, IF=6.7), 2024 (Published)
+12. [Co-author] Diagnosis of Diabetic Kidney Disease in Whole Slide Images via AI-driven Quantification of Pathological Indicators, Computers in Biology and Medicine (SCI-Q2 TOP, IF=7.0), 2023 (Published)
+
+
 </div>
 </div>
 - 
@@ -85,10 +99,13 @@ IEEE Transactions on Circuits and Systems for Video Technology**（SCI‑1区 TO
 # 📖 Student work
 - **2021.06 - 2023.06**: 大学生科学技术协会负责人，大数据学院，太原理工大学（2022、2023届优秀大学生科学技术协会）
 - **2021.09 - 2023.06**: TYUT睿诺云双创项目孵化基地本科生负责人，太原理工大学双创项目实践孵化基地
+- **2022.09 - 2023.06**: 大数据本科党支部支部委员会
 
-- 
+  
 # 💬 Project
-- *2024.09- present*, 基于多级特征融合与多域视觉状态空间的数字病理切片弱监督分割模型研究，山西研究生教育创新项目（主持，在研） No.RC2400005593
-- *2022.06-2023.06*, 基于生成对抗网络的病理图像染色质量优化与评价技术与系统, 山西省大学生创新训练计划项目（负责）
-
-# 💻 Resume
+- *2024.09- present*, 基于多级特征融合与多域视觉状态空间的数字病理切片弱监督分割模型研究，山西研究生教育创新项目（主持，在研） No.2024KY232
+- *2022.06-2023.06*, 基于生成对抗网络的病理图像染色质量优化与评价技术与系统, 山西省大学生创新训练计划项目（负责/引领）
+- *2025.06-present*, 基于缺失染色模态生成的肾脏病理图像分割辅诊系统, 全国大学生创新训练计划项目（负责/引领）
+- *2023.09-present*, 基于超高分辨病理 WSIs 的肾病智能辅助诊断技术研究, 山西省自然科学研究项目-面上项目（核心成员）
+  
+# 💻 
