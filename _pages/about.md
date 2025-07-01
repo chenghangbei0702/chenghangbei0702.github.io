@@ -53,7 +53,6 @@ Expert Systems with Applications**(SCI‑Q1 TOP, IF=7.6)**  Accept
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/MAMBA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,8 +69,10 @@ Medical Image Analysis(**（SCI‑Q1 TOP \ CCF-B, Top Medical Journal, IF=10.7�
 - A bidirectional spatial scanning strategy is introduced to model contextual structures in pathology images more effectively.
 - A CAM-guided pseudo-label refinement strategy with soft supervision and self-correction enhances segmentation under label noise.
 - Our method achieves state-of-the-art segmentation performance on both public and private histopathology datasets without relying on pixel-level annotations.
+</div>
+</div>
 
-3. [First Author] FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images, Pattern Recognition and Computer Vision (PRCV) (CCF-C Conference), 2025 (Submitted)
+3. **[First Author]** FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images, Pattern Recognition and Computer Vision (PRCV) (CCF-C Conference), 2025 (Submitted)
 4. [Second Author] A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Classification, Information Fusion (SCI-Q1 TOP, IF=15.5), 2025 (With Editor)
 5. [Second Author / Undergraduate Advisor] DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification, Biomedical Signal Processing and Control (SCI-Q2, IF=4.9), 2025 (1st Under Review)
 6. [Third Author / First Author is Supervisor] MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning, Knowledge-Based Systems (SCI-Q1 TOP, IF=7.2), 2025 (2nd RRC)
@@ -81,11 +82,6 @@ Medical Image Analysis(**（SCI‑Q1 TOP \ CCF-B, Top Medical Journal, IF=10.7�
 10. [Co-author] Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation, PRCV (CCF-C Conference), 2025 (Submitted)
 11. [Co-author] MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta Learning Framework, IEEE JBHI (SCI-Q2 TOP, IF=6.7), 2024 (Published)
 12. [Co-author] Diagnosis of Diabetic Kidney Disease in Whole Slide Images via AI-driven Quantification of Pathological Indicators, Computers in Biology and Medicine (SCI-Q2 TOP, IF=7.0), 2023 (Published)
-
-
-</div>
-</div>
-- 
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding undergraduate graduates of Taiyuan University of Technology
