@@ -27,6 +27,23 @@ h2, h3 {
 }
 </style>
 
+<style>
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 0.75em;
+  border-radius: 5px;
+  margin-right: 5px;
+  color: white;
+}
+.badge-red { background-color: #d9534f; }
+.badge-green { background-color: #5cb85c; }
+.badge-warning { background-color: #f0ad4e; }
+.badge-info { background-color: #5bc0de; }
+.badge-purple { background-color: #613d7c; }
+.badge-secondary { background-color: #777; }
+</style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
