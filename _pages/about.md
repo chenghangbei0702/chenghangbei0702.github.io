@@ -101,11 +101,16 @@ My current research focuses on **vision modeling and learning with limited annot
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images** 
+<p>
+<strong>GLMKD:</strong> Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images  
+<br>
+<span style="color:#d9534f;"><strong>Expert Systems with Applications</strong></span>
+<span style="color:gray;">(SCI-Q1 TOP, IF=7.5)</span>
+<span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">Published</span>  
+</p>
 
-<font color=red>(**Expert Systems with Applications**)</font> <font color=gray>(SCI-Q1 TOP, IF=7.5)</font> <span class="badge badge-success">Published</span>  
+<p><strong>Authors:</strong> Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu*</p>
 
-**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
 
