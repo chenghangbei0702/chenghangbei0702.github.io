@@ -91,150 +91,58 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ## 📝 Publications
 
-<style>
-.timeline {
-  position: relative;
-  margin: 0 0 2em 0;
-  padding: 0;
-  border-left: 3px solid #ccc;
-}
-.timeline-entry {
-  margin-left: 1em;
-  padding: 1em 1em 1em 1.5em;
-  border-left: 3px solid transparent;
-  position: relative;
-}
-.timeline-entry::before {
-  content: "";
-  position: absolute;
-  top: 1.2em;
-  left: -0.6em;
-  width: 0.8em;
-  height: 0.8em;
-  background-color: #5bc0de;
-  border-radius: 50%;
-  border: 2px solid white;
-  box-shadow: 0 0 0 2px #5bc0de;
-}
-.timeline-year {
-  font-size: 1.5em;
-  font-weight: bold;
-  color: #2c3e50;
-  margin-top: 2em;
-}
-.badge {
-  display: inline-block;
-  padding: 3px 8px;
-  font-size: 0.75em;
-  border-radius: 5px;
-  margin-right: 6px;
-  color: white;
-}
-.badge-red { background-color: #d9534f; }
-.badge-green { background-color: #5cb85c; }
-.badge-warning { background-color: #f0ad4e; }
-.badge-info { background-color: #5bc0de; }
-.badge-purple { background-color: #6f42c1; }
-.badge-secondary { background-color: #6c757d; }
-</style>
-
-<div class="timeline">
-
-<div class="timeline-year">🗓️ 2026</div>
-
-<div class="timeline-entry">
-<strong>SegMind</strong>: *Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*  
-<span class="badge badge-purple">AAAI</span> <span class="badge badge-warning">CCF-A</span> <span class="badge badge-warning">Submitted</span>  
-<em>First Author</em>
-</div>
-
-<div class="timeline-entry">
-<strong>Multi-stained Renal Segmentation</strong>: *Meta-learning with Guided Collaborative Distillation*  
-<span class="badge badge-purple">AAAI</span> <span class="badge badge-warning">Submitted</span>  
-<em>Second Author</em>
-</div>
-
----
-
-<div class="timeline-year">🗓️ 2025</div>
-
-<div class="timeline-entry">
-<strong>FMaMIL</strong>: *FFT-enhanced Vision Mamba MIL for WSSS*  
-<span class="badge badge-red">MedIA</span> <span class="badge badge-green">IF=10.7</span> <span class="badge badge-warning">1st RRC</span>  
-<em>First Author</em> [[Code]](https://github.com/chenghangbei0702/MambaMIL)
-</div>
-
-<div class="timeline-entry">
-<strong>FALMIL</strong>: *Frequency-aware Linear MIL for WSSS*  
-<span class="badge badge-info">PRCV</span> <span class="badge badge-warning">CCF-C</span> <span class="badge badge-warning">Submitted</span>  
-<em>First Author</em>
-</div>
-
-<div class="timeline-entry">
-<strong>A Dual-branch Network</strong>: *Cross-scale Feature Interaction for WSIs Classification*  
-<span class="badge badge-red">Information Fusion</span> <span class="badge badge-green">IF=15.5</span> <span class="badge badge-warning">With Editor</span>  
-<em>Second Author</em>
-</div>
-
-<div class="timeline-entry">
-<strong>DGMCN</strong>: *Depth-Guided Multi-modal Polyp Segmentation*  
-<span class="badge badge-info">JVCIR</span> <span class="badge badge-warning">1st UR</span>  
-<em>Second Author</em>
-</div>
-
-<div class="timeline-entry">
-<strong>MTSec</strong>: *AIGC-Enhanced Secure Federated Learning*  
-<span class="badge badge-red">KBS</span> <span class="badge badge-green">IF=7.2</span> <span class="badge badge-warning">2nd RRC</span>  
-<em>Third Author</em>
-</div>
-
-<div class="timeline-entry">
-<strong>Fourier Shape-Constrained Segmentation</strong>  
-<span class="badge badge-info">PRCV</span> <span class="badge badge-warning">Submitted</span>  
-<em>Co-author</em>
-</div>
-
----
-
-<div class="timeline-year">🗓️ 2024</div>
-
-<div class="timeline-entry">
-<strong>MSMTSeg</strong>: *Multi-Stained Multi-Tissue Kidney Histology Segmentation*  
-<span class="badge badge-secondary">IEEE JBHI</span> <span class="badge badge-green">Published</span>  
-<em>Co-author</em>
-</div>
-
----
-
-<div class="timeline-year">🗓️ 2023</div>
-
-<div class="timeline-entry">
-<strong>GLMKD</strong>: *Joint Global & Local Mutual KD for WSSS in Pathology*  
-<span class="badge badge-red">ESWA</span> <span class="badge badge-green">IF=7.6</span> <span class="badge badge-green">Published</span>  
-<em>First Author</em> [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
-</div>
-
-<div class="timeline-entry">
-<strong>AI for Diabetic Kidney Diagnosis</strong>: *WSI-driven Indicator Quantification*  
-<span class="badge badge-secondary">CIBM</span> <span class="badge badge-green">Published</span>  
-<em>Co-author</em>
-</div>
-
-</div> <!-- end of .timeline -->
-
-## 📝 Publications
-
-> ✍️ *Selected works categorized by research direction and status*
+> ✍️ *Representative Papers categorized by research direction and status*
 
 ---
 
 ### 🧠 Medical Image Segmentation & Weak Supervision
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images** 
+
+<font color=gray>(Expert Systems with Applications)</font> <font color=red>(SCI-Q1 TOP, IF=7.5)</font> <span class="badge badge-success">Published</span>  
+
+**Expert Systems with Applications (SCI-Q1 TOP, IF=7.6)** — *Published*  
+
+**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
+
+**Highlights:**
+- Proposed a novel dual-stream knowledge distillation framework for weakly supervised pathology segmentation.
+- Combined global supervision and multi-scale MIL for the first time in WSSS.
+- Introduced shape transfer loss for improved global-local feature alignment.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FMaMIL: FFT enchanced vision Mamba Multi-instance learning for Weakly Supervised Lesion Segmentation in Medical Images**  
+
+**Medical Image Analysis (SCI-Q1 TOP \| CCF-B, IF=10.7)** — *1st RRC*  
+
+**Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
+
+[[Paper]]() | [[Code]](https://github.com/chenghangbei0702/MambaMIL)
+
+**Highlights:**
+- Introduced the first Mamba-based MIL segmentation model with learnable frequency encoding.
+- Bidirectional scanning captures contextual pathology structures.
+- CAM-guided soft label correction boosts robustness to label noise.
+
+</div></div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images**  
-<span style="color:#d9534f"><strong>Expert Systems with Applications</strong></span> <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-green">IF=7.6</span> <span class="badge badge-success">Published</span>  
+<span style="color:#d9534f"><strong>Expert Systems with Applications</strong></span> <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-green">IF=7.6</span> 
 
 **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
 
