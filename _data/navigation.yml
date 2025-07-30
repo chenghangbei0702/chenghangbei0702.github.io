@@ -3,20 +3,24 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Research Interests"
+    url: "/#research-interests"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Leadership and Service"
-    url: "/#-Leadership and Service"
+  - title: "Publications"
+    url: "/#publications"
 
   - title: "Project Experience"
-    url: "/#-Project Experience"
+    url: "/#projects"
+
+    
+  - title: "Honors and Awards"
+    url: "/#honors-awards"
+
+  - title: "Leadership and Service"
+    url: "/#student-leadership"
+
+  - title: "Phd Motivation"
+    url: "/#phd-motivation"
