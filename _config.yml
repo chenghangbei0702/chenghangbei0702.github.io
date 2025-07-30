@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hangbei Cheng's Academic homepage"
+title                    : "Hangbei Cheng (成航北)' - Academic homepage"
 description              : "A researcher in intelligent medical imaging algorithms"
 repository               : "chenghangbei0702/chenghangbei0702.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hangbei Cheng  (成航北)"
+  name             : "Hangbei Cheng <br> (成航北)"
   avatar           : "images/chenghangbei.png"
   bio              : "Master’s Student"
   location         : "TaiYuan, Shanxi, China"
