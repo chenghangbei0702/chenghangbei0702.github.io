@@ -143,11 +143,8 @@ My current research focuses on **vision modeling and learning with limited annot
 
 </div></div>
 
----
 
 ### 📚 Other Publications
-
-> *(Click to expand if you use collapsible sections, otherwise list directly)*
 
 #### 🔬 Medical Imaging
 
@@ -198,19 +195,23 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ## 💬 Research Projects
 
-- **[PI]**  Multi-domain Visual Feature Fusion for Weakly Supervised Pathology Segmentation 
+- **[PI]**  Multi-domain Visual Feature Fusion for Weakly Supervised Pathology Segmentation.
+  
   Shanxi Graduate Innovation Project (2024KY232), 09/2024–Present  
   → Designed a dual-stream framework based on Mamba encoder to enhance spatial-frequency modeling for multi-scale lesion detection.
 
-- **[Core Member]**  High-resolution Kidney Pathology AI Diagnosis System
+- **[Core Member]**  High-resolution Kidney Pathology AI Diagnosis System.
+  
   Shanxi Natural Science Project(General Project), 09/2023–Present  
   → Led MIL model development for lesion segmentation and KW-node recognition with interpretability constraints.
 
-- **[Team Lead]**  Auxiliary Diagnosis System for Kidney Pathology via Missing-Modality Generation
+- **[Team Lead]**  Auxiliary Diagnosis System for Kidney Pathology via Missing-Modality Generation.
+  
    National Innovation Training Program for College Students, 06/2025–Present 
   → Developed stain transfer pipeline with meta-learning for style consistency and domain generalization.
 
-- **[Team Lead]**  GAN-based Pathology Stain Quality Enhancement and Evaluation
+- **[Team Lead]**  GAN-based Pathology Stain Quality Enhancement and Evaluation.
+  
   Shanxi Undergraduate Innovation Project, 06/2022–06/2023  
   → Developed stain transfer pipeline with meta-learning for style consistency and domain generalization.
 
