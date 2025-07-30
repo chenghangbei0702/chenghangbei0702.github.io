@@ -22,23 +22,31 @@ redirect_from:
 **Hangbei Cheng (成航北)**  
 Master's Student (Class of 2023)  
 [College of Computer Science and Technology](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/)  
-Advisor: [Assoc. Prof. Yongfei Wu](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm)  
+Advisor: [Assoc. Prof. Yongfei Wu](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm)  [Assoc. Prof. Xueyu Liu](https://xueyuliu.github.io)  
 Lab: [IMBR Lab @ TYUT](https://lab.rjmart.cn/10579/3146DDB7959849F4)
-
-My research interests lie in **intelligent medical image analysis**, with a particular focus on:
-
-- **Lesion Segmentation in Histopathology Images**
-- **Weakly Supervised Segmentation with Incomplete or Imprecise Annotations**
-- **Large Vision Models in Medicine**
-- **Federated Learning Security & Face Anti-spoofing**
-- **Embodied Intelligence for Clinical Medical Applications**
-
-I am actively exploring the integration of intelligent imaging technologies into real-world clinical workflows.
-
 📫 **Contact**: [chenghangbei0702@163.com](mailto:chenghangbei0702@163.com)  
 🔗 **Links**: [GitHub](https://github.com/chenghangbei0702)
 
+
 ---
+
+## 🔍 Research Interests
+
+My current research focuses on **vision modeling and learning with limited annotations** in medical image scenarios. Specifically:
+
+- **Weakly Supervised & Semi-supervised Medical Image Segmentation**  
+  → Multi-scale lesion feature learning, label noise robustness, shape prior modeling.
+
+- **Multi-modal Prompt Engineering & Visual Foundation Models**  
+  → Leveraging large-scale models (e.g., CLIP, SAM) for domain adaptation, semantic alignment, and efficient transfer to medical domains.
+
+- **Embodied Intelligence & Multi-agent Collaboration in Medical AI (Exploratory)**  
+  → Modeling decision-making and robustness in multi-agent, multi-modal diagnostic systems.
+
+> *My long-term vision is to design intelligent, trustworthy, and interpretable visual systems that can truly “see and understand” the world, not just recognize pixels.*
+
+---
+
 
 ## 📝 Publications
 
@@ -94,10 +102,13 @@ I am actively exploring the integration of intelligent imaging technologies into
 ## 🎖 Honors & Awards
 
 - 🏅 *2023.06* — Outstanding Undergraduate Graduate, TYUT  
-- 🏅 *2022.05* — “May Fourth” Outstanding Communist Youth League Member, TYUT  
-- 🏅 *2023.07* — Outstanding Undergraduate Thesis, TYUT  
-
----
+- 🏅 *2023.07* — Outstanding Undergraduate Thesis, TYUT
+- 🏅 *2022.05* — “May Fourth” Outstanding Communist Youth League Member, TYUT
+- 🏅 *2021.09* —  Excellent Practical Team Member, TYUT
+- 🏅 *2021-2024* —  “Internet+” / “Challenge Cup” Innovation Contests — *5× Shanxi Gold, 2× Shanxi Silver
+- 🏅 *2022.06* —  12th National “ZhengDa Cup” Market Research Competition — *3rd Prize
+- 🏅 *2023.06-present* —  National Scholarship ×1 (Postgrad), 1st-Class Postgrad Scholarship ×2  
+- 🏅 *2019.06-2023.06* —  1st-Class Undergrad Scholarship ×6, National Encouragement Scholarship ×3  
 
 ## 🎓 Education
 
@@ -114,22 +125,37 @@ I am actively exploring the integration of intelligent imaging technologies into
 
 ---
 
-## 💬 Projects
+## 💬 Research Projects
 
-- **2024.09 – Present**  
-  PI, *Multi-domain Visual Feature Fusion for Weakly Supervised Pathology Segmentation*  
-  Shanxi Postgraduate Innovation Project — No. 2024KY232
+- **[PI] Multi-domain Visual Feature Fusion for Weakly Supervised Pathology Segmentation**  
+  Shanxi Graduate Innovation Project (2024KY232), 09/2024–Present  
+  → Designed a dual-stream framework based on Mamba encoder to enhance spatial-frequency modeling for multi-scale lesion detection.
 
-- **2022.06 – 2023.06**  
-  PI, *GAN-based Pathology Stain Quality Enhancement and Evaluation*  
-  Shanxi Undergraduate Innovation Training Project
+- **[Core Member] High-resolution Kidney Pathology AI Diagnosis System**  
+  Shanxi Natural Science Project(General Project), 09/2023–Present  
+  → Led MIL model development for lesion segmentation and KW-node recognition with interpretability constraints.
 
-- **2025.06 – Present**  
-  PI, *Auxiliary Diagnosis System for Kidney Pathology via Missing-Modality Generation*  
-  National Innovation Training Program for College Students
+- **[Team Lead] Auxiliary Diagnosis System for Kidney Pathology via Missing-Modality Generation**  
+   National Innovation Training Program for College Students, 06/2025–Present 
+  → Developed stain transfer pipeline with meta-learning for style consistency and domain generalization.
 
-- **2023.09 – Present**  
-  Core Member, *WSI-based Intelligent Kidney Disease Diagnosis*  
-  Shanxi Natural Science Foundation (General Project)
+- **[Team Lead] GAN-based Pathology Stain Quality Enhancement and Evaluation**  
+  Shanxi Undergraduate Innovation Project, 06/2022–06/2023  
+  → Developed stain transfer pipeline with meta-learning for style consistency and domain generalization.
+
+---
+
+## 🧭 PhD Motivation & Direction
+
+> “愿专注视觉理解，做真正看得懂世界的模型，也做值得被记住的成果。”
+
+During my master's, I’ve built a strong foundation in medical image modeling, weakly-supervised learning, and large vision model tuning. I aim to further explore **explainable, robust and adaptive vision systems** for complex real-world environments.  
+In the PhD phase, I hope to:
+
+- Delve into **multimodal and embodied perception**
+- Address trustworthiness and generalization in medical AI
+- Bridge model-level innovation and real-world application
+
+If you're a professor or lab PI working in related areas, I'm very open to potential collaborations!
 
 ---
