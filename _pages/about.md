@@ -89,6 +89,14 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
+## 🎓 Education
+
+- **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, TYUT  
+- **2023.09 – Present** — M.Eng. in Computer Science and Technology, College of CCST, TYUT  
+
+---
+
+
 ## 📝 Publications
 
 > ✍️ *Representative Papers categorized by research direction and status*
@@ -151,223 +159,38 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
-### 📚 Other Publications
-
-- <strong>First Author</strong>. *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*  
-  <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#777;">(CCF-A)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>First Author</strong>. *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*  
-  <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>Co-First Author</strong>, *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*  
-  <span style="color:#2a6496;">Biomedical Signal Processing and Control (BSPC)</span> <span style="color:#777;">(SCI-Q2)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st RRC</span>
-
-- <strong>Second Author:</strong>  *A Dual-branch Network with Cross-scale Feature Interaction and Alignment for WSIs Classification*  
-  <span style="color:#2a6496;">Information Fusion</span> <span style="color:#777;">(SCI-Q1 TOP, IF=15.5)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">With Editor</span>
-
-- <strong>Second Author:</strong>  *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*  
-  <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#777;">(CCF-A)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>Second Author:</strong>  *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*  
-  <span style="color:#2a6496;">JVCIR</span> <span style="color:#777;">(SCI-Q4)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>
-
-- <strong>Third Author:</strong> *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation*  
-  <span style="color:#2a6496;">TBD</span> <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">In Preparation</span>
-
-- <strong>Co-author:</strong>  *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*  
-  <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>Co-author:</strong>  *MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*  
-  <span style="color:#2a6496;">IEEE JBHI</span> <span style="color:#777;">(SCI-Q2 TOP)</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
-
-- <strong>Co-author:</strong>  *Diagnosis of Diabetic Kidney Disease via AI-driven Quantification of Pathological Indicators in WSIs*  
-  <span style="color:#2a6496;">CIBM</span> <span style="color:#777;">(SCI-Q2)</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
-
-
 
 ### 📚 Other Publications
 
--   <em>[First Author]</em> <strong>SegMind:</strong> Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation  
-  <span style="color:#6f42c1;"><strong>AAAI 2026</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
+- <strong>First Author</strong>. *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*  <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#777;">(CCF-A)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
 
+- <strong>First Author</strong>. *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*   <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
 
-- <strong>FALMIL:</strong> Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images  
-  <span style="color:#337ab7;"><strong>PRCV 2025</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
-  <em>[First Author]</em>
+- <strong>Co-First Author</strong>, *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*   <span style="color:#2a6496;">Biomedical Signal Processing and Control (BSPC)</span> <span style="color:#777;">(SCI-Q2)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st RRC</span>
 
-- <strong>DSAGL:</strong> Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification  
-  <span style="color:#5cb85c;"><strong>BSPC</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st RRC</span>  
-  <em>[Co-First Author]</em>
+- <strong>Second Author:</strong>  *A Dual-branch Network with Cross-scale Feature Interaction and Alignment for WSIs Classification*   <span style="color:#2a6496;">Information Fusion</span> <span style="color:#777;">(SCI-Q1 TOP, IF=15.5)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">With Editor</span>
 
-- <strong>A Dual-branch Network:</strong> Cross-scale Feature Interaction and Alignment for WSIs Classification  
-  <span style="color:#d9534f;"><strong>Information Fusion</strong></span> (SCI-Q1, IF=15.5)  
-  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">With Editor</span>  
-  <em>[Second Author]</em>
+- <strong>Second Author:</strong>  *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*   <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#777;">(CCF-A)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
 
-- <strong>Multi-stained Renal Histopathology Segmentation via Meta-learning</strong>  
-  <span style="color:#6f42c1;"><strong>AAAI 2026</strong></span>  
-  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
-  <em>[Second Author]</em>
+- <strong>Second Author:</strong>  *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*   <span style="color:#2a6496;">JVCIR</span> <span style="color:#777;">(SCI-Q4)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>
 
-- <strong>DGMCN:</strong> Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation  
-  <span style="color:#5bc0de;"><strong>JVCIR</strong></span>  
-  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>  
-  <em>[Second Author]</em>
+- <strong>Third Author:</strong> *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation*   <span style="color:#2a6496;">TBD</span> <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Manuscript in Preparation</span>
 
-- <strong>LEPG-SAM:</strong> Local Enhancement Perception and Guidance for WSSS  
-  <span style="color:gray;"><em>Manuscript in Preparation</em></span>  
-  <em>[Third Author]</em>
+- <strong>Co-author:</strong>  *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*   <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
 
-- <strong>Fourier Shape-Constrained Framework for Generalizable Segmentation</strong>  
-  <span style="color:#337ab7;"><strong>PRCV 2025</strong></span>  
-  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
-  <em>[Co-author]</em>
+- <strong>Co-author:</strong>  *MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*   <span style="color:#2a6496;">IEEE JBHI</span> <span style="color:#777;">(SCI-Q2 TOP)</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
 
-- <strong>MSMTSeg:</strong> Multi-Stained Kidney Histology Segmentation via Generative Meta-Learning  
-  <span style="color:#777;"><strong>IEEE JBHI</strong></span>  
-  <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>  
-  <em>[Co-author]</em>
-
-- <strong>Diabetic Kidney Disease Diagnosis:</strong> Quantification via AI-driven Indicator Analysis  
-  <span style="color:#777;"><strong>CIBM</strong></span>  
-  <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>  
-  <em>[Co-author]</em>
-  
-
-### 📚 Other Publications
-
-3. **[First Author]** *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*, AAAI2026 (Submitted)  
-4. **[First Author]** *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*, PRCV 2025 (Submitted)
-5. **[Co-First Author]** *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*，BSPC(1st RRC)
-6. **[Second Author]** * A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Classification*, *Information Fusion*, 2025 (*With Editor*)  
-7. **[Second Author]** *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*, *AAAI 2026*, (*Submitted*)
-8. **[Second Author]** *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*, *JVCIR*, (*1st UR*)  
-9. **[Third Author]** *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation.*, (*Manuscript in Preparation*)
-10. **[Co-author]** *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*, *PRCV*, 2025  (Submitted)
-11. **[Co-author]** *MSMTSeg: Multi Stained Multi Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*, *IEEE JBHI*, 2024.(Published)
-12. **[Co-author]** *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*, *CIBM*, 2023.(Published)
-
-</div></div>
-
-- **SegMind**, AAAI 2026 — <span class="badge badge-purple">CCF-A</span> <span class="badge badge-warning">Submitted</span>  
-- **FALMIL**, PRCV 2025 — <span class="badge badge-info">CCF-C</span> <span class="badge badge-warning">Submitted</span>  
-- **DSAGL**, BSPC — <span class="badge badge-secondary">SCI-Q2</span> <span class="badge badge-warning">1st RRC</span>  
-- **LEPG-SAM**, *In preparation* — <span class="badge badge-secondary">Medical Imaging</span>  
+- <strong>Co-author:</strong>  *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*   <span style="color:#2a6496;">CIBM</span> <span style="color:#777;">(SCI-Q2)</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
 
 ---
 
 ### 🤖 Multimodal Learning, Federated Security & Embodied AI
 
-- **A Dual-branch Network**, *Information Fusion*, 2025  
-  <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-green">IF=15.5</span> <span class="badge badge-warning">With Editor</span>  
-  <em>Second Author</em>
+- <strong>Co-First Author:</strong> Hangbei Cheng. *AlignBreaker: Multimodal Feature Perturbation Attacks on Embodied AI via Alignment Disruption*    <span style="color:#2a6496;">TBD</span>  <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">In Preparation</span>
 
-- **Multi-stained Renal Segmentation**, AAAI 2026  
-  <span class="badge badge-purple">CCF-A</span> <span class="badge badge-warning">Submitted</span>  
-  <em>Second Author</em>
+- <strong>Third Author:</strong> Hangbei Cheng. *MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning*    <span style="color:#2a6496;">Knowledge-Based Systems</span> <span style="color:#777;">(SCI-Q1 TOP, IF=7.2)</span>    <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2nd RRC</span>
 
-- **DGMCN for Polyp Segmentation**, JVCIR  
-  <span class="badge badge-info">SCI-Q4</span> <span class="badge badge-warning">1st UR</span>
-
-- **MTSec: AIGC-enhanced Federated Learning**, *KBS*, 2025  
-  <span class="badge badge-red">SCI-Q1</span> <span class="badge badge-green">IF=7.2</span> <span class="badge badge-warning">2nd RRC</span>
-
-- **Face Anti-Spoofing**, ACMMM 2025  
-  <span class="badge badge-purple">CCF-A</span> <span class="badge badge-warning">Resubmission (Avg Score: 5.25)</span>
-
-- **AlignBreaker: Multimodal Attack**, *In preparation*  
-  <span class="badge badge-secondary">Embodied AI</span>  
-
-- **Fourier Shape-Constrained Segmentation**, PRCV 2025  
-  <span class="badge badge-info">CCF-C</span> <span class="badge badge-warning">Submitted</span>
-
-- **MSMTSeg**, IEEE JBHI, 2024  
-  <span class="badge badge-secondary">SCI-Q2</span> <span class="badge badge-green">Published</span>
-
-- **AI for Diabetic Kidney**, *CIBM*, 2023  
-  <span class="badge badge-secondary">SCI-Q2</span> <span class="badge badge-green">Published</span>
-
-## 📝 Publications
-
-### 📌 Representative Papers
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images**  
-
-**Expert Systems with Applications (SCI-Q1 TOP, IF=7.6)** — *Published*  
-
-**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
-
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
-
-**Highlights:**
-- Proposed a novel dual-stream knowledge distillation framework for weakly supervised pathology segmentation.
-- Combined global supervision and multi-scale MIL for the first time in WSSS.
-- Introduced shape transfer loss for improved global-local feature alignment.
-
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FMaMIL: FFT enchanced vision Mamba Multi-instance learning for Weakly Supervised Lesion Segmentation in Medical Images**  
-
-**Medical Image Analysis (SCI-Q1 TOP \| CCF-B, IF=10.7)** — *1st RRC*  
-
-**Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
-
-[[Paper]]() | [[Code]](https://github.com/chenghangbei0702/MambaMIL)
-
-**Highlights:**
-- Introduced the first Mamba-based MIL segmentation model with learnable frequency encoding.
-- Bidirectional scanning captures contextual pathology structures.
-- CAM-guided soft label correction boosts robustness to label noise.
-
-</div></div>
-
-### 📚 Other Publications
-
-3. **[First Author]** *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*, AAAI2026 (Submitted)  
-4. **[First Author]** *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*, PRCV 2025 (Submitted)
-5. **[Co-First Author]** *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*，BSPC(1st RRC)
-6. **[Second Author]** * A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Classification*, *Information Fusion*, 2025 (*With Editor*)  
-7. **[Second Author]** *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*, *AAAI 2026*, (*Submitted*)
-8. **[Second Author]** *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*, *JVCIR*, (*1st UR*)  
-9. **[Third Author]** *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation.*, (*Manuscript in Preparation*)
-10. **[Co-author]** *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*, *PRCV*, 2025  (Submitted)
-11. **[Co-author]** *MSMTSeg: Multi Stained Multi Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*, *IEEE JBHI*, 2024.(Published)
-12. **[Co-author]** *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*, *CIBM*, 2023.(Published)
-13. **[Co-First Author]** *AlignBreaker: Multimodal Feature Perturbation Attacks on Embodied AI via Alignment Disruption*，(*Manuscript in Preparation*)
-14. **[Third Author]** *MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning,*, *Knowledge-Based Systems* , 2025 (*2nd RRC*)  、
-15. **[Third Author]** *Face Anti-Spoofing model with online distillation of local and global features*, Planned resubmission with major extension (initial version submitted to ACMM2025 .
-
----
-
-## 🎖 Honors & Awards
-
-- 🏅 *2023.06* — Outstanding Undergraduate Graduate, TYUT  
-- 🏅 *2023.07* — Outstanding Undergraduate Thesis, TYUT
-- 🏅 *2022.05* — “May Fourth” Outstanding Communist Youth League Member, TYUT
-- 🏅 *2021.09* —  Excellent Practical Team Member, TYUT
-- 🏅 *2021-2024* —  “Internet+” / “Challenge Cup” Innovation Contests — *5× Shanxi Gold, 2× Shanxi Silver
-- 🏅 *2022.06* —  12th National “ZhengDa Cup” Market Research Competition — *3rd Prize
-- 🏅 *2023.06-present* —  National Scholarship ×1 (Postgrad), 1st-Class Postgrad Scholarship ×2  
-- 🏅 *2019.06-2023.06* —  1st-Class Undergrad Scholarship ×6, National Encouragement Scholarship ×3  
-
-## 🎓 Education
-
-- **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, TYUT  
-- **2023.09 – Present** — M.Eng. in Computer Science and Technology, College of CCST, TYUT  
-
----
-
-## 🧑‍🎓 Student Leadership & Activities
-
-- **2021.06 – 2023.06** — Head, University Science and Technology Association, TYUT  
-- **2021.09 – 2023.06** — TYUT RuinoYun Innovation Base Student Leader  
-- **2022.09 – 2023.06** — Committee Member, Undergraduate Party Branch, College of Big Data  
+- <strong>Third Author:</strong> Hangbei Cheng. *Face Anti-Spoofing Model with Online Distillation of Local and Global Features*    <span style="color:#2a6496;">ACM MM 2025</span> <span style="color:#777;">(CCF-A)</span>    <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Planned Resubmission</span>
 
 ---
 
@@ -390,6 +213,28 @@ My current research focuses on **vision modeling and learning with limited annot
   → Developed stain transfer pipeline with meta-learning for style consistency and domain generalization.
 
 ---
+
+## 🎖 Honors & Awards
+
+- 🏅 *2023.06* — Outstanding Undergraduate Graduate, TYUT  
+- 🏅 *2023.07* — Outstanding Undergraduate Thesis, TYUT
+- 🏅 *2022.05* — “May Fourth” Outstanding Communist Youth League Member, TYUT
+- 🏅 *2021.09* —  Excellent Practical Team Member, TYUT
+- 🏅 *2021-2024* —  “Internet+” / “Challenge Cup” Innovation Contests — *5× Shanxi Gold, 2× Shanxi Silver
+- 🏅 *2022.06* —  12th National “ZhengDa Cup” Market Research Competition — *3rd Prize
+- 🏅 *2023.06-present* —  National Scholarship ×1 (Postgrad), 1st-Class Postgrad Scholarship ×2  
+- 🏅 *2019.06-2023.06* —  1st-Class Undergrad Scholarship ×6, National Encouragement Scholarship ×3  
+
+
+
+## 🧑‍🎓 Student Leadership & Activities
+
+- **2021.06 – 2023.06** — Head, University Science and Technology Association, TYUT  
+- **2021.09 – 2023.06** — TYUT RuinoYun Innovation Base Student Leader  
+- **2022.09 – 2023.06** — Committee Member, Undergraduate Party Branch, College of Big Data  
+
+---
+
 
 ## 🧭 PhD Motivation & Direction
 
