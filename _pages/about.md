@@ -8,6 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+body {
+  line-height: 1.8;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+ul, ol {
+  margin-bottom: 1.2em;
+}
+
+h2, h3 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+</style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
