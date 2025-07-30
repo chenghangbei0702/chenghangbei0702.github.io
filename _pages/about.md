@@ -174,7 +174,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 - <strong>Second Author:</strong>  *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*   <span style="color:#2a6496;">JVCIR</span> <span style="color:#777;">(SCI-Q4)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>
 
-- <strong>Third Author:</strong> *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation*   <span style="color:#2a6496;">TBD</span> <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Manuscript in Preparation</span>
+- <strong>Third Author:</strong> *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation*   <span style="color:#2a6496;">To be submitted CMPB</span> <span style="color:#777;">(SCI-Q2)</span>  <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Manuscript in Preparation</span>
 
 - <strong>Co-author:</strong>  *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*   <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
 
