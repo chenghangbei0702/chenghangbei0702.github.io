@@ -103,9 +103,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images** 
 
-<font color=gray>(Expert Systems with Applications)</font> <font color=red>(SCI-Q1 TOP, IF=7.5)</font> <span class="badge badge-success">Published</span>  
-
-**Expert Systems with Applications (SCI-Q1 TOP, IF=7.6)** — *Published*  
+<font color=red>(**Expert Systems with Applications**)</font> <font color=gray>(SCI-Q1 TOP, IF=7.5)</font> <span class="badge badge-success">Published</span>  
 
 **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
 
@@ -123,11 +121,11 @@ My current research focuses on **vision modeling and learning with limited annot
 
 **FMaMIL: FFT enchanced vision Mamba Multi-instance learning for Weakly Supervised Lesion Segmentation in Medical Images**  
 
-**Medical Image Analysis (SCI-Q1 TOP \| CCF-B, IF=10.7)** — *1st RRC*  
+<font color=red>(**Medical Image Analysis**)</font> <font color=gray>(SCI-Q1 TOP | CCF-B, IF=10.7)</font> <span class="badge badge badge-warning">1st RRC</span>  
 
 **Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
 
-[[Paper]]() | [[Code]](https://github.com/chenghangbei0702/MambaMIL)
+[[arxiv Paper]](https://arxiv.org/abs/2506.07652) | [[Code]](https://github.com/chenghangbei0702/MambaMIL)
 
 **Highlights:**
 - Introduced the first Mamba-based MIL segmentation model with learnable frequency encoding.
@@ -136,29 +134,18 @@ My current research focuses on **vision modeling and learning with limited annot
 
 </div></div>
 
+### 📚 Other Publications
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images**  
-<span style="color:#d9534f"><strong>Expert Systems with Applications</strong></span> <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-green">IF=7.6</span> 
-
-**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
-
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
-
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FMaMIL: FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation**  
-<span style="color:#d43f3a"><strong>Medical Image Analysis</strong></span> <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-warning">CCF-B</span> <span class="badge badge-green">IF=10.7</span> <span class="badge badge-warning">1st RRC</span>  
-
-**Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
-
-[[Code]](https://github.com/chenghangbei0702/MambaMIL)
+3. **[First Author]** *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*, AAAI2026 (Submitted)  
+4. **[First Author]** *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*, PRCV 2025 (Submitted)
+5. **[Co-First Author]** *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*，BSPC(1st RRC)
+6. **[Second Author]** * A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Classification*, *Information Fusion*, 2025 (*With Editor*)  
+7. **[Second Author]** *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*, *AAAI 2026*, (*Submitted*)
+8. **[Second Author]** *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*, *JVCIR*, (*1st UR*)  
+9. **[Third Author]** *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation.*, (*Manuscript in Preparation*)
+10. **[Co-author]** *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*, *PRCV*, 2025  (Submitted)
+11. **[Co-author]** *MSMTSeg: Multi Stained Multi Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*, *IEEE JBHI*, 2024.(Published)
+12. **[Co-author]** *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*, *CIBM*, 2023.(Published)
 
 </div></div>
 
