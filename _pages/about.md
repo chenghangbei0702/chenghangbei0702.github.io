@@ -43,7 +43,6 @@ h2, h3 {
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 ## 🧍‍♂️ About Me
 
 **Hangbei Cheng (成航北)**  
@@ -64,6 +63,7 @@ Lab: [IMBR Lab @ TYUT](https://lab.rjmart.cn/10579/3146DDB7959849F4)
 
 ---
 
+<span class='anchor' id='research-interests'></span>
 ## 🔍 Research Interests
 
 My current research focuses on **vision modeling and learning with limited annotations** in medical image scenarios. Specifically:
@@ -81,6 +81,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
+<span class='anchor' id='education'></span>
 ## 🎓 Education
 
 - **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, TYUT.  
@@ -88,7 +89,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
-
+<span class='anchor' id='publications'></span>
 ## 📝 Publications
 
 ### ✍️ Representative Papers
@@ -193,6 +194,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
+<span class='anchor' id='projects'></span>
 ## 💬 Research Projects
 
 - **[PI]**  Multi-domain Visual Feature Fusion for Weakly Supervised Pathology Segmentation.
@@ -217,6 +219,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
+<span class='anchor' id='honors-awards'></span>
 ## 🎖 Honors & Awards
 
 - 🏅 *2023.06* — Outstanding Undergraduate Graduate, TYUT  
@@ -230,6 +233,8 @@ My current research focuses on **vision modeling and learning with limited annot
 
 
 
+<span class='anchor' id='student-leadership'></span>
+
 ## 🧑‍🎓 Student Leadership & Activities
 
 - **2021.06 – 2023.06** — Head, University Science and Technology Association, TYUT  
@@ -238,7 +243,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
-
+<span class='anchor' id='phd-motivation'></span>
 ## 🧭 PhD Motivation & Direction
 
 During my master's, I’ve built a strong foundation in medical image modeling, weakly-supervised learning, and large vision model tuning. I aim to further explore **explainable, robust and adaptive vision systems** for complex real-world environments.  
