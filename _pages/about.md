@@ -109,10 +109,9 @@ My current research focuses on **vision modeling and learning with limited annot
 <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">Published</span>  
 </p>
 
-<p><strong>Authors:</strong> Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu*</p>
+<p>Authors: <strong>Hangbei Cheng</strong>, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu*</p>
 
-
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [Code](https://github.com/chenghangbei0702/GLMKD-WSSS)
 
 **Highlights:**
 - Proposed a novel dual-stream knowledge distillation framework for weakly supervised pathology segmentation.
@@ -121,23 +120,85 @@ My current research focuses on **vision modeling and learning with limited annot
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MedIA</div>
+      <img src='images/MAMBA.png' alt="FMaMIL" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-**FMaMIL: FFT enchanced vision Mamba Multi-instance learning for Weakly Supervised Lesion Segmentation in Medical Images**  
+<p>
+<strong>FMaMIL:</strong> FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation in Medical Images  
+<br>
+<span style="color:#d43f3a;"><strong>Medical Image Analysis</strong></span>
+<span style="color:gray;">(SCI-Q1 TOP | CCF-B, IF=10.7)</span>
+<span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">1st RRC</span>
+</p>
 
-<font color=red>(**Medical Image Analysis**)</font> <font color=gray>(SCI-Q1 TOP | CCF-B, IF=10.7)</font> <span class="badge badge badge-warning">1st RRC</span>  
+<p>Authors: <strong>Hangbei Cheng</strong>, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu*</p>
 
-**Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
-
-[[arxiv Paper]](https://arxiv.org/abs/2506.07652) | [[Code]](https://github.com/chenghangbei0702/MambaMIL)
+[arXiv Paper](https://arxiv.org/abs/2506.07652) | [Code](https://github.com/chenghangbei0702/MambaMIL)
 
 **Highlights:**
 - Introduced the first Mamba-based MIL segmentation model with learnable frequency encoding.
 - Bidirectional scanning captures contextual pathology structures.
 - CAM-guided soft label correction boosts robustness to label noise.
 
-</div></div>
+</div>
+</div>
+
+---
+
+### 📚 Other Publications
+
+- <strong>SegMind:</strong> Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation  
+  <span style="color:#6f42c1;"><strong>AAAI 2026</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
+  <em>[First Author]</em>
+
+- <strong>FALMIL:</strong> Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images  
+  <span style="color:#337ab7;"><strong>PRCV 2025</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
+  <em>[First Author]</em>
+
+- <strong>DSAGL:</strong> Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification  
+  <span style="color:#5cb85c;"><strong>BSPC</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st RRC</span>  
+  <em>[Co-First Author]</em>
+
+- <strong>A Dual-branch Network:</strong> Cross-scale Feature Interaction and Alignment for WSIs Classification  
+  <span style="color:#d9534f;"><strong>Information Fusion</strong></span> (SCI-Q1, IF=15.5)  
+  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">With Editor</span>  
+  <em>[Second Author]</em>
+
+- <strong>Multi-stained Renal Histopathology Segmentation via Meta-learning</strong>  
+  <span style="color:#6f42c1;"><strong>AAAI 2026</strong></span>  
+  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
+  <em>[Second Author]</em>
+
+- <strong>DGMCN:</strong> Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation  
+  <span style="color:#5bc0de;"><strong>JVCIR</strong></span>  
+  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>  
+  <em>[Second Author]</em>
+
+- <strong>LEPG-SAM:</strong> Local Enhancement Perception and Guidance for WSSS  
+  <span style="color:gray;"><em>Manuscript in Preparation</em></span>  
+  <em>[Third Author]</em>
+
+- <strong>Fourier Shape-Constrained Framework for Generalizable Segmentation</strong>  
+  <span style="color:#337ab7;"><strong>PRCV 2025</strong></span>  
+  <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
+  <em>[Co-author]</em>
+
+- <strong>MSMTSeg:</strong> Multi-Stained Kidney Histology Segmentation via Generative Meta-Learning  
+  <span style="color:#777;"><strong>IEEE JBHI</strong></span>  
+  <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>  
+  <em>[Co-author]</em>
+
+- <strong>Diabetic Kidney Disease Diagnosis:</strong> Quantification via AI-driven Indicator Analysis  
+  <span style="color:#777;"><strong>CIBM</strong></span>  
+  <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>  
+  <em>[Co-author]</em>
+  
 
 ### 📚 Other Publications
 
