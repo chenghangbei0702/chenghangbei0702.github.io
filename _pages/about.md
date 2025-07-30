@@ -94,18 +94,14 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ### ✍️ Representative Papers
 
+- <strong>First Author.</strong> *GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images*.
+  <br>
+  <span style="color:#2a6496;"><strong>Expert Systems with Applications</strong></span>
+<span style="color:#d9534f;">(SCI-Q1 TOP, IF=7.5)</span>
+<span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">Published</span>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<p>
-<strong>GLMKD:</strong> Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images.
-<br>
-<span style="color:#2a6496;"><strong>Expert Systems with Applications</strong></span>
-<span style="color:#d9534f;">(SCI-Q1 TOP, IF=7.5)</span>
-<span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">Published</span>  
-</p>
-
-<p>Authors: <strong>Hangbei Cheng</strong>, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu*</p>
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [Code](https://github.com/chenghangbei0702/GLMKD-WSSS)
 
@@ -116,6 +112,12 @@ My current research focuses on **vision modeling and learning with limited annot
 
 </div></div>
 
+- <strong>First Author.</strong> *FMaMIL:FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation in Medical Images*.
+  <span style="color:#2a6496;"><strong>Medical Image Analysis</strong></span>
+<span style="color:#d9534f;">(SCI-Q1 TOP | CCF-B, IF=10.7)</span>
+<span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">1st RRC</span>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -124,16 +126,6 @@ My current research focuses on **vision modeling and learning with limited annot
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
-<p>
-<strong>FMaMIL:</strong> FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation in Medical Images.
-<br>
-<span style="color:#2a6496;"><strong>Medical Image Analysis</strong></span>
-<span style="color:#d9534f;">(SCI-Q1 TOP | CCF-B, IF=10.7)</span>
-<span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">1st RRC</span>
-</p>
-
-<p>Authors: <strong>Hangbei Cheng</strong>, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu*</p>
 
 [arXiv Paper](https://arxiv.org/abs/2506.07652) | [Code](https://github.com/chenghangbei0702/MambaMIL)
 
