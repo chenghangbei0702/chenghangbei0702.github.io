@@ -185,13 +185,13 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ### 🤖 Multimodal Learning, Federated Security & Embodied AI
 
-- <strong>Co-First Author.</strong>. *AlignBreaker: Multimodal Feature Perturbation Attacks on Embodied AI via Alignment Disruption*.
+- <strong>Co-First Author.</strong> *AlignBreaker: Multimodal Feature Perturbation Attacks on Embodied AI via Alignment Disruption*.
   <span style="color:#2a6496;">To be submitted usenix</span>  <span style="color:#d9534f;">**(CCF-A)**</span> <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Manuscript in Preparation</span>
 
-- <strong>Third Author.</strong>. *MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning*.
+- <strong>Third Author.</strong> *MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning*.
    <span style="color:#2a6496;">Knowledge-Based Systems</span> <span style="color:#d9534f;">**(SCI-Q1 TOP, IF=7.2)**</span>    <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2nd RRC</span>
 
-- <strong>Third Author.</strong>. *Face Anti-Spoofing Model with Online Distillation of Local and Global Features*.
+- <strong>Third Author.</strong> *Face Anti-Spoofing Model with Online Distillation of Local and Global Features*.
   <span style="color:#2a6496;">ACM MM 2025</span> <span style="color:#d9534f;">**(CCF-A)**</span>    <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Planned Resubmission</span>
 
 ---
