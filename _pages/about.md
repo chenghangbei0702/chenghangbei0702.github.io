@@ -153,9 +153,43 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ### 📚 Other Publications
 
-- <strong>SegMind:</strong> Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation  
+- <strong>First Author</strong>. *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*  
+  <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#777;">(CCF-A)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
+
+- <strong>First Author</strong>. *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*  
+  <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
+
+- <strong>Co-First Author</strong>, *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*  
+  <span style="color:#2a6496;">Biomedical Signal Processing and Control (BSPC)</span> <span style="color:#777;">(SCI-Q2)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st RRC</span>
+
+- <strong>Second Author:</strong>  *A Dual-branch Network with Cross-scale Feature Interaction and Alignment for WSIs Classification*  
+  <span style="color:#2a6496;">Information Fusion</span> <span style="color:#777;">(SCI-Q1 TOP, IF=15.5)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">With Editor</span>
+
+- <strong>Second Author:</strong>  *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*  
+  <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#777;">(CCF-A)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
+
+- <strong>Second Author:</strong>  *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*  
+  <span style="color:#2a6496;">JVCIR</span> <span style="color:#777;">(SCI-Q4)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>
+
+- <strong>Third Author:</strong> *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation*  
+  <span style="color:#2a6496;">TBD</span> <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">In Preparation</span>
+
+- <strong>Co-author:</strong>  *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*  
+  <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#777;">(CCF-C)</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
+
+- <strong>Co-author:</strong>  *MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*  
+  <span style="color:#2a6496;">IEEE JBHI</span> <span style="color:#777;">(SCI-Q2 TOP)</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
+
+- <strong>Co-author:</strong>  *Diagnosis of Diabetic Kidney Disease via AI-driven Quantification of Pathological Indicators in WSIs*  
+  <span style="color:#2a6496;">CIBM</span> <span style="color:#777;">(SCI-Q2)</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
+
+
+
+### 📚 Other Publications
+
+-   <em>[First Author]</em> <strong>SegMind:</strong> Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation  
   <span style="color:#6f42c1;"><strong>AAAI 2026</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
-  <em>[First Author]</em>
+
 
 - <strong>FALMIL:</strong> Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images  
   <span style="color:#337ab7;"><strong>PRCV 2025</strong></span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>  
