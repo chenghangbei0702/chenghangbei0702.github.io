@@ -40,6 +40,7 @@ h2, h3 {
 ## 🧍‍♂️ About Me
 
 **Hangbei Cheng (成航北)**  
+
 Master's Student (Class of 2023)  
 
 [College of Computer Science and Technology](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/)  
@@ -71,6 +72,75 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ---
 
+## 📝 Publications
+
+> ✍️ *Selected works categorized by research direction and status*
+
+---
+
+### 🧠 Medical Image Segmentation & Weak Supervision
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images**  
+<span style="color:#d9534f"><strong>Expert Systems with Applications</strong></span> <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-green">IF=7.6</span> <span class="badge badge-success">Published</span>  
+
+**Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FMaMIL: FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation**  
+<span style="color:#d43f3a"><strong>Medical Image Analysis</strong></span> <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-warning">CCF-B</span> <span class="badge badge-green">IF=10.7</span> <span class="badge badge-warning">1st RRC</span>  
+
+**Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
+
+[[Code]](https://github.com/chenghangbei0702/MambaMIL)
+
+</div></div>
+
+- **SegMind**, AAAI 2026 — <span class="badge badge-purple">CCF-A</span> <span class="badge badge-warning">Submitted</span>  
+- **FALMIL**, PRCV 2025 — <span class="badge badge-info">CCF-C</span> <span class="badge badge-warning">Submitted</span>  
+- **DSAGL**, BSPC — <span class="badge badge-secondary">SCI-Q2</span> <span class="badge badge-warning">1st RRC</span>  
+- **LEPG-SAM**, *In preparation* — <span class="badge badge-secondary">Medical Imaging</span>  
+
+---
+
+### 🤖 Multimodal Learning, Federated Security & Embodied AI
+
+- **A Dual-branch Network**, *Information Fusion*, 2025  
+  <span class="badge badge-red">SCI-Q1 TOP</span> <span class="badge badge-green">IF=15.5</span> <span class="badge badge-warning">With Editor</span>  
+  <em>Second Author</em>
+
+- **Multi-stained Renal Segmentation**, AAAI 2026  
+  <span class="badge badge-purple">CCF-A</span> <span class="badge badge-warning">Submitted</span>  
+  <em>Second Author</em>
+
+- **DGMCN for Polyp Segmentation**, JVCIR  
+  <span class="badge badge-info">SCI-Q4</span> <span class="badge badge-warning">1st UR</span>
+
+- **MTSec: AIGC-enhanced Federated Learning**, *KBS*, 2025  
+  <span class="badge badge-red">SCI-Q1</span> <span class="badge badge-green">IF=7.2</span> <span class="badge badge-warning">2nd RRC</span>
+
+- **Face Anti-Spoofing**, ACMMM 2025  
+  <span class="badge badge-purple">CCF-A</span> <span class="badge badge-warning">Resubmission (Avg Score: 5.25)</span>
+
+- **AlignBreaker: Multimodal Attack**, *In preparation*  
+  <span class="badge badge-secondary">Embodied AI</span>  
+
+- **Fourier Shape-Constrained Segmentation**, PRCV 2025  
+  <span class="badge badge-info">CCF-C</span> <span class="badge badge-warning">Submitted</span>
+
+- **MSMTSeg**, IEEE JBHI, 2024  
+  <span class="badge badge-secondary">SCI-Q2</span> <span class="badge badge-green">Published</span>
+
+- **AI for Diabetic Kidney**, *CIBM*, 2023  
+  <span class="badge badge-secondary">SCI-Q2</span> <span class="badge badge-green">Published</span>
 
 ## 📝 Publications
 
@@ -80,7 +150,9 @@ My current research focuses on **vision modeling and learning with limited annot
 <div class='paper-box-text' markdown="1">
 
 **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images**  
+
 **Expert Systems with Applications (SCI-Q1 TOP, IF=7.6)** — *Published*  
+
 **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
@@ -95,8 +167,10 @@ My current research focuses on **vision modeling and learning with limited annot
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**FMaMIL: FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation**  
-**Medical Image Analysis (SCI-Q1 TOP \| CCF-B, IF=10.7)** — *1st Under Review*  
+**FMaMIL: FFT enchanced vision Mamba Multi-instance learning for Weakly Supervised Lesion Segmentation in Medical Images**  
+
+**Medical Image Analysis (SCI-Q1 TOP \| CCF-B, IF=10.7)** — *1st RRC*  
+
 **Hangbei Cheng**, Xiaorong Dong, Jia Shen, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu\*
 
 [[Paper]]() | [[Code]](https://github.com/chenghangbei0702/MambaMIL)
@@ -110,16 +184,19 @@ My current research focuses on **vision modeling and learning with limited annot
 
 ### 📚 Other Publications
 
-3. **[First Author]** *FALMIL: Frequency-aware Linear MIL for Efficient WSSS*, PRCV 2025 (Submitted)  
-4. **[Second Author]** *Dual-branch Cross-scale Network for WSIs Classification*, *Information Fusion* (IF=15.5), 2025 (*With Editor*)  
-5. **[Second Author / Advisor]** *DSAGL for Weakly Supervised WSI Classification*, *BSPC* (IF=4.9), 2025 (*Under Review*)  
-6. **[Third Author]** *MTSec for Secure Multimodal Federated Learning*, *Knowledge-Based Systems* (IF=7.2), 2025 (*2nd RRC*)  
-7. **[Third Author]** *Online Distillation for Face Anti-Spoofing*, *ACM MM* (CCF-A), 2025 (*Rebuttal*)  
-8. **[Third Author / Advisor]** *LEPG-SAM for WSSS*, *Computer Methods and Programs in Biomedicine* (IF=4.8), 2025 (*With Editor*)  
-9. **[Second Author / Advisor]** *DGMCN for Polyp Segmentation*, *JVCIR* (IF=3.1), 2025 (*Under Review*)  
-10. **[Co-author]** *Fourier Shape Constrained Framework for Segmentation*, *PRCV*, 2025  
-11. **[Co-author]** *MSMTSeg: Multi-Stained Kidney Histology Segmentation*, *IEEE JBHI* (IF=6.7), 2024  
-12. **[Co-author]** *AI-assisted DKD Diagnosis in WSIs*, *Computers in Biology and Medicine* (IF=7.0), 2023
+3. **[First Author]** *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*, AAAI2026 (Submitted)  
+4. **[First Author]** *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*, PRCV 2025 (Submitted)
+5. **[Co-First Author]** *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*，BSPC(1st RRC)
+6. **[Second Author]** * A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Classification*, *Information Fusion*, 2025 (*With Editor*)  
+7. **[Second Author]** *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*, *AAAI 2026*, (*Submitted*)
+8. **[Second Author]** *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*, *JVCIR*, (*1st UR*)  
+9. **[Third Author]** *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation.*, (*Manuscript in Preparation*)
+10. **[Co-author]** *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*, *PRCV*, 2025  (Submitted)
+11. **[Co-author]** *MSMTSeg: Multi Stained Multi Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*, *IEEE JBHI*, 2024.(Published)
+12. **[Co-author]** *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*, *CIBM*, 2023.(Published)
+13. **[Co-First Author]** *AlignBreaker: Multimodal Feature Perturbation Attacks on Embodied AI via Alignment Disruption*，(*Manuscript in Preparation*)
+14. **[Third Author]** *MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning,*, *Knowledge-Based Systems* , 2025 (*2nd RRC*)  、
+15. **[Third Author]** *Face Anti-Spoofing model with online distillation of local and global features*, Planned resubmission with major extension (initial version submitted to ACMM2025 .
 
 ---
 
