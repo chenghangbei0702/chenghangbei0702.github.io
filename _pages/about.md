@@ -21,12 +21,16 @@ redirect_from:
 
 **Hangbei Cheng (成航北)**  
 Master's Student (Class of 2023)  
-[College of Computer Science and Technology](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/)  
-Advisor: [Assoc. Prof. Yongfei Wu](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm)  [Assoc. Prof. Xueyu Liu](https://xueyuliu.github.io)  
-Lab: [IMBR Lab @ TYUT](https://lab.rjmart.cn/10579/3146DDB7959849F4)
-📫 **Contact**: [chenghangbei0702@163.com](mailto:chenghangbei0702@163.com)  
-🔗 **Links**: [GitHub](https://github.com/chenghangbei0702)
 
+[College of Computer Science and Technology](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/)  
+
+Advisor: [Assoc. Prof. Yongfei Wu](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm) and [Assoc. Prof. Xueyu Liu](https://xueyuliu.github.io)  
+
+Lab: [IMBR Lab @ TYUT](https://lab.rjmart.cn/10579/3146DDB7959849F4)
+
+📫 **Contact**: [chenghangbei0702@163.com](mailto:chenghangbei0702@163.com)  
+
+🔗 **Links**: [GitHub](https://github.com/chenghangbei0702)
 
 ---
 
@@ -56,7 +60,7 @@ My current research focuses on **vision modeling and learning with limited annot
 <div class='paper-box-text' markdown="1">
 
 **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images**  
-**Expert Systems with Applications (SCI-Q1 TOP, IF=7.6)** — *Accepted*  
+**Expert Systems with Applications (SCI-Q1 TOP, IF=7.6)** — *Published*  
 **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\*
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [[Code]](https://github.com/chenghangbei0702/GLMKD-WSSS)
@@ -68,7 +72,7 @@ My current research focuses on **vision modeling and learning with limited annot
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/MAMBA.png' alt="FMaMIL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FMaMIL: FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation**  
