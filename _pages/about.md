@@ -47,17 +47,15 @@ h2, h3 {
 
 **Hangbei Cheng (成航北)**  
 
-Master's Student (Class of 2023)  
+Ph.D. Student (Class of 2026)
 
-[College of Computer Science and Technology](https://ccst.tyut.edu.cn/), [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/)  
+[School of Computer Science and Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)
 
-Advisor: [Assoc. Prof. Yongfei Wu](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm) and [Assoc. Prof. Xueyu Liu](https://xueyuliu.github.io)  
+Advisor: [Prof. Ying Fu](https://ying-fu.github.io/)
 
-Lab: [IMBR Lab @ TYUT](https://lab.rjmart.cn/10579/3146DDB7959849F4)
+*Previously, I obtained my Master's degree (Class of 2023) and Bachelor's degree (Class of 2019)  from [Taiyuan University of Technology (TYUT)](https://www.tyut.edu.cn/), where I was fortunate to be advised by [Assoc. Prof. Yongfei Wu](https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm) and [Assoc. Prof. Xueyu Liu](https://xueyuliu.github.io) at [IMBR Lab](https://lab.rjmart.cn/10579/3146DDB7959849F4).*
 
-> “愿专注视觉理解，做真正看得懂世界的模型，也做值得被记住的成果。”
-
-📫 **Contact**: [chenghangbei0702@163.com](mailto:chenghangbei0702@163.com)  
+📫 **Contact**: [chenghangbei0702@163.com](mailto:chenghangbei0702@163.com) 
 
 🔗 **Links**: [GitHub](https://github.com/chenghangbei0702)
 
@@ -66,123 +64,58 @@ Lab: [IMBR Lab @ TYUT](https://lab.rjmart.cn/10579/3146DDB7959849F4)
 <span class='anchor' id='research-interests'></span>
 ## 🔍 Research Interests
 
-My current research focuses on **vision modeling and learning with limited annotations** in medical image scenarios. Specifically:
+My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Making Systems** in medical scenarios, aiming to build robust and intelligent medical AI. Specifically:
 
-- **Weakly Supervised & Semi-supervised Medical Image Segmentation**  
-  → Multi-scale lesion feature learning, label noise robustness, shape prior modeling.
+- **Medical Image Analysis & Generation (Low-Resource)**  
+  → Weakly/semi-supervised segmentation, shape prior modeling, and high-fidelity image synthesis using latent diffusion models.
 
-- **Multi-modal Prompt Engineering & Visual Foundation Models**  
-  → Leveraging large-scale models (e.g., CLIP, SAM) for domain adaptation, semantic alignment, and efficient transfer to medical domains.
+- **Multi-modal Foundation Models & Disease Diagnosis**  
+  → Leveraging large vision-language models (e.g., CLIP, Med-SAM) for domain adaptation, semantic alignment, and automated clinical diagnosis.
 
-- **Embodied Intelligence & Multi-agent Collaboration in Medical AI (Exploratory)**  
-  → Modeling decision-making and robustness in multi-agent, multi-modal diagnostic systems.
-
-> *My long-term vision is to design intelligent, trustworthy, and interpretable visual systems that can truly “see and understand” the world, not just recognize pixels.*
-
+- **Embodied Intelligence & Multi-agent Systems (Exploratory)**  
+  → Exploring advanced decision-making, clinical reasoning, and collaborative robustness in multi-agent medical environments.
+  
 ---
 
 <span class='anchor' id='education'></span>
 ## 🎓 Education
 
-- **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, TYUT.  
-- **2023.09 – Present** — M.Eng. in Computer Science and Technology, College of CCST, TYUT.
+- **2026.09 – Present** — Ph.D. in Computer Science and Technology, School of Computer Science and Technology, [BIT](https://www.bit.edu.cn/).
+- **2023.09 – 2026.06** — M.Eng. in Computer Science and Technology, College of Computer Science and Technology, [TYUT](https://www.tyut.edu.cn/).
+- **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, [TYUT](https://www.tyut.edu.cn/).
 
 ---
 
 <span class='anchor' id='publications'></span>
 ## 📝 Publications
 
-### ✍️ Representative Papers
+### 📅 2026
+*   📢 <strong>Co-First Author.</strong> Yufei Wan†, Hangbei Cheng†, Danchen Cui, Junran Li, Jiahui Jiang, Junxin Chen, Mingqiang Wei, Xueyu Liu, Yongfei Wu. CSGE:Break the SSL Bottleneck in Medical Image Segmentation via Collaborative Semantic-Geometric Experts[C]. <span style="color:#2a6496;"><strong>29th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING
+AND COMPUTER ASSISTED INTERVENTION(**MICCAI 2026**)</strong></span>, 2026.<span style="color:#d9534f;">(CCF-B)</span> [Paper]() | [Code](https://github.com/yufei050201/CSGE)
 
-- <strong>First Author.</strong> *GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images*.
-  <br>
-  <span style="color:#2a6496;"><strong>Expert Systems with Applications</strong></span>
-<span style="color:#d9534f;">(SCI-Q1 TOP, IF=7.5)</span>
-<span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">Published</span>
+*   📢 <strong>Co-First Author.</strong> Daoxi Cao†, **Hangbei Cheng†**, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, Xueyu Liu, Yongfei Wu. Dual-stream attention-guided learning for weakly supervised whole slide image classification[J]. <span style="color:#2a6496;"><strong>Engineering Applications of Artificial Intelligence(**EAAI**)</strong></span>, 2026, 181: 115272.<span style="color:#d9534f;">(SCI-Q1 TOP)</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/GLMKD.png' alt="GLMKD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+*   📢 <strong>Second Author.</strong> Jianan Zhang, **Hangbei Cheng**, Xueyu Liu, Feixue Shao, Junxin Chen, Guanghui Yue, Yongfei Wu, Weihua Yang. A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Analysis[J]. <span style="color:#2a6496;"><strong>IEEE Journal of Biomedical and Health Informatics(**IEEE JBHI**)</strong></span>, 2026.<span style="color:#d9534f;">(SCI-Q1 TOP)</span>
 
-[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [Code](https://github.com/chenghangbei0702/GLMKD-WSSS)
+*   📢 <strong>First Author.</strong> **Hangbei Cheng**, Xiaorong Dong, Jia Shen, Guangze Shi, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu. FMaMIL: Synergistic spatial-frequency Mamba multi-instance learning for weakly supervised pathology lesion segmentation[J]. <span style="color:#2a6496;"><strong>Pattern Recognition(**PR**)</strong></span>, 2026: 113442.<span style="color:#d9534f;">(SCI-Q1 TOP, CCF-B)</span> [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004085) | [Code](https://github.com/chenghangbei0702/MambaMIL)
 
-**Highlights:**
-- Proposed a novel dual-stream knowledge distillation framework for weakly supervised pathology segmentation.
-- Combined global supervision and multi-scale MIL for the first time in WSSS.
-- Introduced shape transfer loss for improved global-local feature alignment.
+*   📢 <strong>Co-author.</strong> Zhihui Zhao, Xiaorong Dong, Yaowen Zheng, Xiaohui Chen, Yimo Ren, **Hangbei Cheng**, Yongle Chen, Limin Sun. Breaking Cross-modal Alignment in Embodied Intelligence: A Multimodal Adversarial Attack Framework for Vision-Language-Action Models[C]. <span style="color:#2a6496;"><strong>Proceedings of the ACM Web Conference 2026(**WWW 2026**)</strong></span>, 2026: 2824-2834.<span style="color:#d9534f;">(CCF-A)</span>
 
-</div></div>
+### 📅 2025
 
-- <strong>First Author.</strong> *FMaMIL:FFT-enhanced Vision Mamba Multi-instance Learning for Weakly Supervised Lesion Segmentation in Medical Images*.
-  <span style="color:#2a6496;"><strong>Medical Image Analysis</strong></span>
-<span style="color:#d9534f;">(SCI-Q1 TOP | CCF-B, IF=10.7)</span>
-<span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em; vertical-align:middle;">1st RRC</span>
+*   📢 <strong>Third Author.</strong>Xiaorong Dong, Zhihui Zhao, **Hangbei Cheng**, Yimo Ren, Dan Yu, Yongle Chen. MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning[J]. <span style="color:#2a6496;"><strong>Knowledge-Based Systems(**KBS**)</strong></span>, 2025: 114748.<span style="color:#d9534f;">(SCI-Q1 TOP)</span>
 
+*   📢 <strong>Co-First Author.</strong> Jia Shen, Jun Zhang, Xueyu Liu, Yunfei Zhang, Guangze Shi, Feixue Shao, **Hangbei Cheng**, Yongfei Wu. Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation[C]. <span style="color:#2a6496;"><strong>Chinese Conference on Pattern Recognition and Computer Vision(**PRCV 2025**)</strong></span>, Singapore: Springer Nature Singapore, 2025: 295-309. <span style="color:#d9534f;">(CCF-C)</span>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">MedIA</div>
-      <img src='images/MAMBA.png' alt="FMaMIL" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+*   📢 <strong>First Author.</strong> **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu. GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images[J]. <span style="color:#2a6496;"><strong>Expert Systems with Applications(**ESWA**)</strong></span>, 2025, 279: 127425. <span style="color:#d9534f;">(SCI-Q1 TOP)</span> [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [Code](https://github.com/chenghangbei0702/GLMKD-WSSS)
 
-[arXiv Paper](https://arxiv.org/abs/2506.07652) | [Code](https://github.com/chenghangbei0702/MambaMIL)
+### 📅 2024
 
-**Highlights:**
-- Introduced the first Mamba-based MIL segmentation model with learnable frequency encoding.
-- Bidirectional scanning captures contextual pathology structures.
-- CAM-guided soft label correction boosts robustness to label noise.
+*   📢 <strong>Co-author.</strong>  Xueyu Liu, Rui Wang, Yexin Lai, Yongfei Wu, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework.
+   <span style="color:#2a6496;">IEEE Journal of Biomedical and Health Informatics(**IEEE JBHI**)</span>, 2024. <span style="color:#d9534f;">**(新锐Q1-Top | SCI-Q2 TOP)**</span> 
 
-</div></div>
-
-
-### 📚 Other Publications
-
-#### 🔬 Medical Imaging
-
-- <strong>First Author.</strong> *SegMind: Dual-Brain Collaboration with Multi-Modal Prompts and Multi-Teacher Knowledge Integration for Semi-Supervised Medical Segmentation*.
- <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#d9534f;">**(CCF-A)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>First Author.</strong> *FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images*.
- <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#d9534f;">**(CCF-C)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>Co-First Author.</strong> *DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification*.
- <span style="color:#2a6496;">Biomedical Signal Processing and Control (BSPC)</span> <span style="color:#d9534f;">**(SCI-Q2)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st RRC</span>
-
-- <strong>Second Author.</strong>  *A Dual-branch Network with Cross-scale Feature Interaction and Alignment for WSIs Classification*.
- <span style="color:#2a6496;">Information Fusion</span> <span style="color:#d9534f;">**(SCI-Q1 TOP, IF=15.5)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR </span>
-
-- <strong>Second Author.</strong>  *Multi-stained Renal Histopathology Image Segmentation via Meta-learning with Guided Collaborative Distillation*.
-   <span style="color:#2a6496;">AAAI 2026</span> <span style="color:#d9534f;">**(CCF-A)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>Second Author.</strong>  *DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images*.
-   <span style="color:#2a6496;">JVCIR</span> <span style="color:#d9534f;">**(SCI-Q4)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">1st UR</span>
-
-- <strong>Third Author.</strong> *LEPG-SAM: Local Enhancement Perception and Guidance for Weakly Supervised Medical Image Segmentation*.
-  <span style="color:#2a6496;">To be submitted CMPB</span> <span style="color:#d9534f;">**(SCI-Q2)**</span>  <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Manuscript in Preparation</span>
-
-- <strong>Co-author.</strong>  *Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation*.
-  <span style="color:#2a6496;">PRCV 2025</span> <span style="color:#d9534f;">**(CCF-C)**</span> <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Submitted</span>
-
-- <strong>Co-author.</strong>  *MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework*.
-   <span style="color:#2a6496;">IEEE JBHI</span> <span style="color:#d9534f;">**(SCI-Q2 TOP)**</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
-
-- <strong>Co-author.</strong>  *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*.
-  <span style="color:#2a6496;">CIBM</span> <span style="color:#d9534f;">**(SCI-Q2)**</span> <span style="background-color:#5cb85c; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Published</span>
-
----
-
-### 🤖 Multimodal Learning, Federated Security & Embodied AI
-
-- <strong>Co-First Author.</strong> *AlignBreaker: Multimodal Feature Perturbation Attacks on Embodied AI via Alignment Disruption*.
-  <span style="color:#2a6496;">To be submitted usenix</span>  <span style="color:#d9534f;">**(CCF-A)**</span> <span style="background-color:#777; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Manuscript in Preparation</span>
-
-- <strong>Third Author.</strong> *MTSec: AIGC-Enhanced Security Model Training for Multimodal Federated Learning*.
-   <span style="color:#2a6496;">Knowledge-Based Systems</span> <span style="color:#d9534f;">**(SCI-Q1 TOP, IF=7.2)**</span>    <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">2nd RRC</span>
-
-- <strong>Third Author.</strong> *Face Anti-Spoofing Model with Online Distillation of Local and Global Features*.
-  <span style="color:#2a6496;">ACM MM 2025</span> <span style="color:#d9534f;">**(CCF-A)**</span>    <span style="background-color:#f0ad4e; color:white; padding:2px 6px; border-radius:4px; font-size:0.75em;">Planned Resubmission</span>
+*   📢 <strong>Co-author.</strong> Xueyu Liu, Yongfei Wu, Yilin Chen, Dongna Hui, Jianan Zhang, Fang Hao, Yuanyue Lu, Hangbei Cheng, Yue Zeng, Weixia Han, Chen Wang, Ming Li, Xiaoshuang Zhou, Wen Zheng. *Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators*.
+  <span style="color:#2a6496;">Computers in Biology and Medicine(**CIBM**)</span>, 2023, 166: 107470. <span style="color:#d9534f;">**(SCI-Q2)**</span>
 
 ---
 
