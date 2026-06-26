@@ -76,7 +76,6 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
   → Exploring advanced decision-making, clinical reasoning, and collaborative robustness in multi-agent medical environments.
   
 ---
-
 <span class='anchor' id='education'></span>
 ## 🎓 Education
 
@@ -85,19 +84,18 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
 - **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, [TYUT](https://www.tyut.edu.cn/).
 
 ---
-
 <span class='anchor' id='publications'></span>
 ## 📝 Publications
 
 ### 📅 2026
-*   📢 <strong>Co-First Author.</strong> Yufei Wan†, Hangbei Cheng†, Danchen Cui, Junran Li, Jiahui Jiang, Junxin Chen, Mingqiang Wei, Xueyu Liu, Yongfei Wu. CSGE:Break the SSL Bottleneck in Medical Image Segmentation via Collaborative Semantic-Geometric Experts[C]. 29th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING
+*   📢 <strong>Co-First Author.</strong> Yufei Wan†, **Hangbei Cheng†**, Danchen Cui, Junran Li, Jiahui Jiang, Junxin Chen, Mingqiang Wei, Xueyu Liu, Yongfei Wu. CSGE:Break the SSL Bottleneck in Medical Image Segmentation via Collaborative Semantic-Geometric Experts[C]. 29th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING
 AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI 2026**)</strong></span>, 2026.<span style="color:#d9534f;">(CCF-B)</span> [Paper]() | [Code](https://github.com/yufei050201/CSGE)
 
 *   📢 <strong>Co-First Author.</strong> Daoxi Cao†, **Hangbei Cheng†**, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, Xueyu Liu, Yongfei Wu. Dual-stream attention-guided learning for weakly supervised whole slide image classification[J].Engineering Applications of Artificial Intelligence<span style="color:#2a6496;"><strong>(**EAAI**)</strong></span>, 2026, 181: 115272.<span style="color:#d9534f;">(SCI-Q1 TOP)</span>
 
 *   📢 <strong>Second Author.</strong> Jianan Zhang, **Hangbei Cheng**, Xueyu Liu, Feixue Shao, Junxin Chen, Guanghui Yue, Yongfei Wu, Weihua Yang. A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Analysis[J]. IEEE Journal of Biomedical and Health Informatics<span style="color:#2a6496;"><strong>(**IEEE JBHI**)</strong></span>, 2026.<span style="color:#d9534f;">(新锐Q1-Top | SCI-Q2 TOP)</span>
 
-*   📢 <strong>First Author.</strong> **Hangbei Cheng**, Xiaorong Dong, Jia Shen, Guangze Shi, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu. FMaMIL: Synergistic spatial-frequency Mamba multi-instance learning for weakly supervised pathology lesion segmentation[J]. Pattern Recognition<span style="color:#2a6496;"><strong>(**PR**)</strong></span>, 2026: 113442.<span style="color:#d9534f;">(SCI-Q1 TOP, CCF-B)</span> [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004085) | [Code](https://github.com/chenghangbei0702/MambaMIL)
+*   📢 <strong>First Author.</strong> **Hangbei Cheng**, Xiaorong Dong, Jia Shen, Guangze Shi, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu. FMaMIL: Synergistic spatial-frequency Mamba multi-instance learning for weakly supervised pathology lesion segmentation[J]. Pattern Recognition<span style="color:#2a6496;"><strong>(**PR**)</strong></span>, 2026: 113442.<span style="color:#d9534f;">(SCI-Q1 TOP, CCF-B)</span>
 
 *   📢 <strong>Co-author.</strong> Zhihui Zhao, Xiaorong Dong, Yaowen Zheng, Xiaohui Chen, Yimo Ren, **Hangbei Cheng**, Yongle Chen, Limin Sun. Breaking Cross-modal Alignment in Embodied Intelligence: A Multimodal Adversarial Attack Framework for Vision-Language-Action Models[C]. Proceedings of the ACM Web Conference 2026<span style="color:#2a6496;"><strong>(**WWW 2026**)</strong></span>, 2026: 2824-2834.<span style="color:#d9534f;">(CCF-A)</span>
 
@@ -106,13 +104,13 @@ AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI
 
 *   📢 <strong>Co-First Author.</strong> Jia Shen, Jun Zhang, Xueyu Liu, Yunfei Zhang, Guangze Shi, Feixue Shao, **Hangbei Cheng**, Yongfei Wu. Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation[C]. Chinese Conference on Pattern Recognition and Computer Vision<span style="color:#2a6496;"><strong>(**PRCV 2025**)</strong></span>, Singapore: Springer Nature Singapore, 2025: 295-309. <span style="color:#d9534f;">(CCF-C)</span>
 
-*   📢 <strong>First Author.</strong> **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu. GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images[J]. Expert Systems with Applications<span style="color:#2a6496;"><strong>(**ESWA**)</strong></span>, 2025, 279: 127425. <span style="color:#d9534f;">(SCI-Q1 TOP)</span> [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425010474) | [Code](https://github.com/chenghangbei0702/GLMKD-WSSS)
+*   📢 <strong>First Author.</strong> **Hangbei Cheng**, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu. GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images[J]. Expert Systems with Applications<span style="color:#2a6496;"><strong>(**ESWA**)</strong></span>, 2025, 279: 127425. <span style="color:#d9534f;">(SCI-Q1 TOP)</span>
 
 ### 📅 2024
-*   📢 <strong>Co-author.</strong>  Xueyu Liu, Rui Wang, Yexin Lai, Yongfei Wu, Hangbei Cheng, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework. IEEE Journal of Biomedical and Health Informatics<span style="color:#2a6496;"><strong>(**IEEE JBHI**)</strong></span>, 2024. <span style="color:#d9534f;">**(新锐Q1-Top | SCI-Q2 TOP)**</span> 
+*   📢 <strong>Co-author.</strong>  Xueyu Liu, Rui Wang, Yexin Lai, Yongfei Wu, **Hangbei Cheng**, Yuanyue Lu, Jianan Zhang, Ning Hao, Chenglong Ban, Yanru Wang, Shuqin Tang, Yuxuan Yang, Ming Li, Xiaoshuang Zhou, Wen Zheng. MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self Supervised Meta Learning Framework. IEEE Journal of Biomedical and Health Informatics<span style="color:#2a6496;"><strong>(**IEEE JBHI**)</strong></span>, 2024. <span style="color:#d9534f;">**(新锐Q1-Top | SCI-Q2 TOP)**</span> 
 
 ### 📅 2023
-*   📢 <strong>Co-author.</strong> Xueyu Liu, Yongfei Wu, Yilin Chen, Dongna Hui, Jianan Zhang, Fang Hao, Yuanyue Lu, Hangbei Cheng, Yue Zeng, Weixia Han, Chen Wang, Ming Li, Xiaoshuang Zhou, Wen Zheng. Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators. Computers in Biology and Medicine<span style="color:#2a6496;"><strong>(**CIBM**)</strong></span>, 2023, 166: 107470. <span style="color:#d9534f;">**(SCI-Q2)**</span>
+*   📢 <strong>Co-author.</strong> Xueyu Liu, Yongfei Wu, Yilin Chen, Dongna Hui, Jianan Zhang, Fang Hao, Yuanyue Lu, **Hangbei Cheng**, Yue Zeng, Weixia Han, Chen Wang, Ming Li, Xiaoshuang Zhou, Wen Zheng. Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators. Computers in Biology and Medicine<span style="color:#2a6496;"><strong>(**CIBM**)</strong></span>, 2023, 166: 107470. <span style="color:#d9534f;">**(SCI-Q2)**</span>
 
 ---
 
@@ -162,10 +160,9 @@ AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI
 *   🏅 **"May Fourth" Outstanding Youth Leadership Award**, TYUT, 2022
 *   🏅 **Excellent Social Practice Award**, TYUT, 2021
 
-
+---
 
 <span class='anchor' id='student-leadership'></span>
-
 ## 🧑‍🎓 Student Leadership & Activities
 
 - **2021.06 – 2023.06** — Head, University Science and Technology Association, TYUT  
@@ -175,7 +172,6 @@ AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI
 ---
 
 <span class='anchor' id='collaborations-exchange'></span>
-
 ## 💬 Looking for Collaborations & Exchanges
 I am always open to academic discussions, potential research collaborations, or just a friendly chat about AI and medical imaging! If you are interested in my research directions, feel free to drop me an email or open an issue on my GitHub. Let's work together to build models that truly understand the world! 🌟
 
