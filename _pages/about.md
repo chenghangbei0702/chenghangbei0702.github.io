@@ -146,7 +146,7 @@ AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI
 ### 📑 Academic & Merit Scholarships
 *   🏅 **National Scholarship for Graduate Students**, Ministry of Education, China, 2025
 *   🏅 **Outstanding Graduate Student**, TYUT, 2025
-*   🏅 **First-Class Academic Scholarship for Graduate Students** (×2), TYUT, 2024, 2025
+*   🏅 **First-Class Academic Scholarship for Graduate Students** (×3), TYUT, 2024, 2025, 2026
 *   🏅 **Outstanding Undergraduate Thesis**, TYUT, 2023
 *   🏅 **Outstanding Undergraduate Graduate**, TYUT, 2023
 *   🏅 **National Encouragement Scholarship** (×3), Ministry of Education, China, 2019 – 2023
