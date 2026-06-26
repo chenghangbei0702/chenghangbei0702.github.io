@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hangbei Cheng <br> (成航北)"
+  name             : "<center>Hangbei Cheng <br> (成航北)</center>"
   avatar           : "images/chenghangbei.png"
   bio              : "Ph.D Student"
   location         : "Haidian District, Beijing, China"
