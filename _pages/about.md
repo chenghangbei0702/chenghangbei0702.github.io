@@ -89,7 +89,7 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
 
 ### 📅 2026
 *   📢 <strong>Co-First Author.</strong> Yufei Wan†, **Hangbei Cheng†**, Danchen Cui, Junran Li, Jiahui Jiang, Junxin Chen, Mingqiang Wei, Xueyu Liu, Yongfei Wu. CSGE:Break the SSL Bottleneck in Medical Image Segmentation via Collaborative Semantic-Geometric Experts[C]. 29th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING
-AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI 2026**)</strong></span>, 2026.<span style="color:#d9534f;">(CCF-B)</span> [Paper]() | [Code](https://github.com/yufei050201/CSGE)
+AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI 2026**)</strong></span>, 2026.<span style="color:#d9534f;">(CCF-B)</span> <span style="color:#777; font-size:0.9em;">[Co-First Author]</span> | [[Paper]()] [[Code](https://github.com/yufei050201/CSGE)]
 
 *   📢 <strong>Co-First Author.</strong> Daoxi Cao†, **Hangbei Cheng†**, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, Xueyu Liu, Yongfei Wu. Dual-stream attention-guided learning for weakly supervised whole slide image classification[J].Engineering Applications of Artificial Intelligence<span style="color:#2a6496;"><strong>(**EAAI**)</strong></span>, 2026, 181: 115272.<span style="color:#d9534f;">(SCI-Q1 TOP)</span>
 
