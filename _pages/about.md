@@ -174,7 +174,7 @@ AND COMPUTER ASSISTED INTERVENTION<span style="color:#2a6496;"><strong>(**MICCAI
 
 ---
 
-<span class='anchor' id='Collaborations and Exchange'></span>
+<span class='anchor' id='collaborations-exchange'></span>
 
 ## 💬 Looking for Collaborations & Exchanges
 I am always open to academic discussions, potential research collaborations, or just a friendly chat about AI and medical imaging! If you are interested in my research directions, feel free to drop me an email or open an issue on my GitHub. Let's work together to build models that truly understand the world! 🌟
