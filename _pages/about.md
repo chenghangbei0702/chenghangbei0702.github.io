@@ -83,6 +83,7 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
   
 * **[2026.09]** 🎓 I officially started my Ph.D. journey at **Beijing Institute of Technology (BIT)**!
 * **[2026.06]** 🎉 One paper was published by **BSPC**!
+* **[2026.06]** 🎓 I successfully graduated from Taiyuan University of Technology (TYUT) and obtained my Master's degree!
 * **[2026.06]** 🎉 One paper was accepted by **MICCAI 2026**!
 * **[2026.06]** 🎉 One paper was published by **IEEE JBHI**!
 * **[2026.05]** 🎉 One paper was published by **EAAI**!
@@ -93,7 +94,8 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
 * **[2026.03]** 🎉 Our paper was accepted  in **PRCV 2025**.
 * **[2025.03]** 🎉 Our paper was published in **Expert Systems with Applications**.
 * **[2024.08]** 📝 Our project was funded by the **Shanxi Graduate Innovation Project**.
-* 
+* **[2023.06]** 🎓 I successfully graduated from Taiyuan University of Technology (TYUT) and obtained my Bachelor's degree!
+
 </div>
 
 ---
