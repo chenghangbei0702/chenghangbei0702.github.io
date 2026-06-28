@@ -88,6 +88,8 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
 ## 📝 Publications
 
 ### 📅 2026
+*   📢 Yansong Zhang, Hangbei Cheng, Jianan Zhang, Guangze Shi, Xueyu Liu, Lijie Shi, Junxin Chen, Yongfei Wu. Automatic Prompt Generation via Reinforcement Learning Guided Contrastive Purification for Label-Free SAM Segmentation[J]. Biomedical Signal Processing and Control<span style="color:#2a6496;">(**BSPC**)</span>, 2026.<span style="color:#d9534f;">(SCI-Q2 TOP)</span> <span style="color:#5cb85c; font-size:0.9em;">[Second Author]</span>  [[Paper]()] [[Code](https://github.com/yufei050201/CSGE)]
+
 *   📢 Yufei Wan†, <u>Hangbei Cheng†</u>, Danchen Cui, Junran Li, Jiahui Jiang, Junxin Chen, Mingqiang Wei, Xueyu Liu, Yongfei Wu. CSGE:Break the SSL Bottleneck in Medical Image Segmentation via Collaborative Semantic-Geometric Experts[C]. 29th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING
 AND COMPUTER ASSISTED INTERVENTION <span style="color:#2a6496;">(**MICCAI 2026**)</span>, 2026.<span style="color:#d9534f;">(CCF-B)</span> <span style="color:#5cb85c; font-size:0.9em;">[Co-First Author]</span>  [[Paper]()] [[Code](https://github.com/yufei050201/CSGE)]
 
