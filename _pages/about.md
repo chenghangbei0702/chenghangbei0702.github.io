@@ -79,23 +79,24 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
 <span class='anchor' id='news'></span>
 
 ## 📢 News
-<div style="height: 220px; overflow-y: auto; border: 1px solid #e1e4e6; border-radius: 6px; padding: 12px; background-color: #fafbfc;">
-  
-* **[2026.09]** 🎓 I officially started my Ph.D. journey at **Beijing Institute of Technology (BIT)**!
-* **[2026.06]** 🎉 One paper was published by **BSPC**!
-* **[2026.06]** 🎓 I successfully graduated from Taiyuan University of Technology (TYUT) and obtained my Master's degree!
-* **[2026.06]** 🎉 One paper was accepted by **MICCAI 2026**!
-* **[2026.06]** 🎉 One paper was published by **IEEE JBHI**!
-* **[2026.05]** 🎉 One paper was published by **EAAI**!
-* **[2026.03]** 🎉 Our paper was published in **Pattern Recognition**.
-* **[2026.03]** 🎉 Our paper was accepted  in **WWW 2026**.
-* **[2025.11]** 🎉 Our paper was published  in **KBS**.
-* **[2025.09]** 🏆 I was deeply honored to receive the **National Scholarship** (Top 1%).
-* **[2026.03]** 🎉 Our paper was accepted  in **PRCV 2025**.
-* **[2025.03]** 🎉 Our paper was published in **Expert Systems with Applications**.
-* **[2024.08]** 📝 Our project was funded by the **Shanxi Graduate Innovation Project**.
-* **[2023.06]** 🎓 I successfully graduated from Taiyuan University of Technology (TYUT) and obtained my Bachelor's degree!
 
+<div style="height: 220px; overflow-y: auto; border: 1px solid #e1e4e6; border-radius: 6px; padding: 12px; background-color: #fafbfc; line-height: 1.8;">
+  <ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
+    <li><strong>[2026.09]</strong> 🎓 I officially started my Ph.D. journey at <strong>Beijing Institute of Technology (BIT)</strong>!</li>
+    <li><strong>[2026.06]</strong> 🎉 One paper was published by <strong>BSPC</strong>!</li>
+    <li><strong>[2026.06]</strong> 🎓 I successfully graduated from Taiyuan University of Technology (TYUT) and obtained my Master's degree!</li>
+    <li><strong>[2026.06]</strong> 🎉 One paper was accepted by <strong>MICCAI 2026</strong>!</li>
+    <li><strong>[2026.06]</strong> 🎉 One paper was published by <strong>IEEE JBHI</strong>!</li>
+    <li><strong>[2026.05]</strong> 🎉 One paper was published by <strong>EAAI</strong>!</li>
+    <li><strong>[2026.03]</strong> 🎉 Our paper was published in <strong>Pattern Recognition</strong>.</li>
+    <li><strong>[2026.03]</strong> 🎉 Our paper was accepted in <strong>WWW 2026</strong>.</li>
+    <li><strong>[2025.11]</strong> 🎉 Our paper was published in <strong>KBS</strong>.</li>
+    <li><strong>[2025.09]</strong> 🏆 I was deeply honored to receive the <strong>National Scholarship</strong> (Top 1%).</li>
+    <li><strong>[2026.03]</strong> 🎉 Our paper was accepted in <strong>PRCV 2025</strong>.</li>
+    <li><strong>[2025.03]</strong> 🎉 Our paper was published in <strong>Expert Systems with Applications</strong>.</li>
+    <li><strong>[2024.08]</strong> 📝 Our project was funded by the <strong>Shanxi Graduate Innovation Project</strong>.</li>
+    <li><strong>[2023.06]</strong> 🎓 I successfully graduated from Taiyuan University of Technology (TYUT) and obtained my Bachelor's degree!</li>
+  </ul>
 </div>
 
 ---
