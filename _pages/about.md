@@ -76,19 +76,32 @@ My research focuses on **Data-Efficient Learning, Generative AI, and Decision-Ma
   → Exploring advanced decision-making, clinical reasoning, and collaborative robustness in multi-agent medical environments.
   
 ---
-<span class='anchor' id='education'></span>
-## 🎓 Education
+<span class='anchor' id='news'></span>
 
-- **2026.09 – Present** — Ph.D. in Computer Science and Technology, School of Computer Science and Technology, [BIT](https://www.bit.edu.cn/).
-- **2023.09 – 2026.06** — M.Eng. in Computer Science and Technology, College of Computer Science and Technology, [TYUT](https://www.tyut.edu.cn/).
-- **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, [TYUT](https://www.tyut.edu.cn/).
+## 📢 News
+<div style="height: 220px; overflow-y: auto; border: 1px solid #e1e4e6; border-radius: 6px; padding: 12px; background-color: #fafbfc;">
+  
+* **[2026.09]** 🎓 I officially started my Ph.D. journey at **Beijing Institute of Technology (BIT)**!
+* **[2026.06]** 🎉 One paper was published by **BSPC**!
+* **[2026.06]** 🎉 One paper was accepted by **MICCAI 2026**!
+* **[2026.06]** 🎉 One paper was published by **IEEE JBHI**!
+* **[2026.05]** 🎉 One paper was published by **EAAI**!
+* **[2026.03]** 🎉 Our paper was published in **Pattern Recognition**.
+* **[2026.03]** 🎉 Our paper was accepted  in **WWW 2026**.
+* **[2025.11]** 🎉 Our paper was published  in **KBS**.
+* **[2025.09]** 🏆 I was deeply honored to receive the **National Scholarship** (Top 1%).
+* **[2026.03]** 🎉 Our paper was accepted  in **PRCV 2025**.
+* **[2025.03]** 🎉 Our paper was published in **Expert Systems with Applications**.
+* **[2024.08]** 📝 Our project was funded by the **Shanxi Graduate Innovation Project**.
+* 
+</div>
 
 ---
 <span class='anchor' id='publications'></span>
 ## 📝 Publications
 
 ### 📅 2026
-*   📢 Yansong Zhang, Hangbei Cheng, Jianan Zhang, Guangze Shi, Xueyu Liu, Lijie Shi, Junxin Chen, Yongfei Wu. Automatic Prompt Generation via Reinforcement Learning Guided Contrastive Purification for Label-Free SAM Segmentation[J]. Biomedical Signal Processing and Control<span style="color:#2a6496;">(**BSPC**)</span>, 2026.<span style="color:#d9534f;">(SCI-Q2 TOP)</span> <span style="color:#5cb85c; font-size:0.9em;">[Second Author]</span>  [[Paper]()] [[Code](https://github.com/yufei050201/CSGE)]
+*   📢 Yansong Zhang, <u>Hangbei Cheng</u>, Jianan Zhang, Guangze Shi, Xueyu Liu, Lijie Shi, Junxin Chen, Yongfei Wu. Automatic Prompt Generation via Reinforcement Learning Guided Contrastive Purification for Label-Free SAM Segmentation[J]. Biomedical Signal Processing and Control<span style="color:#2a6496;">(**BSPC**)</span>, 2026.<span style="color:#d9534f;">(SCI-Q2 TOP)</span> <span style="color:#5cb85c; font-size:0.9em;">[Second Author]</span>  [[Paper]()] [[Code](https://github.com/yufei050201/CSGE)]
 
 *   📢 Yufei Wan†, <u>Hangbei Cheng†</u>, Danchen Cui, Junran Li, Jiahui Jiang, Junxin Chen, Mingqiang Wei, Xueyu Liu, Yongfei Wu. CSGE:Break the SSL Bottleneck in Medical Image Segmentation via Collaborative Semantic-Geometric Experts[C]. 29th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING
 AND COMPUTER ASSISTED INTERVENTION <span style="color:#2a6496;">(**MICCAI 2026**)</span>, 2026.<span style="color:#d9534f;">(CCF-B)</span> <span style="color:#5cb85c; font-size:0.9em;">[Co-First Author]</span>  [[Paper]()] [[Code](https://github.com/yufei050201/CSGE)]
@@ -139,6 +152,15 @@ AND COMPUTER ASSISTED INTERVENTION <span style="color:#2a6496;">(**MICCAI 2026**
 *   **[Team Lead]** *"GAN-based Pathology Stain Quality Enhancement and Evaluation."*  
     Shanxi Undergraduate Innovation Project | *06/2022 – 06/2023*  
     → Developed a stain transfer pipeline with meta-learning for style consistency and domain generalization across multi-center datasets.
+
+---
+<span class='anchor' id='education'></span>
+## 🎓 Education
+
+- **2026.09 – Present** — Ph.D. in Computer Science and Technology, School of Computer Science and Technology, [BIT](https://www.bit.edu.cn/).
+- **2023.09 – 2026.06** — M.Eng. in Computer Science and Technology, College of Computer Science and Technology, [TYUT](https://www.tyut.edu.cn/).
+- **2019.09 – 2023.07** — B.Eng. in Data Science and Big Data Technology, College of Big Data, [TYUT](https://www.tyut.edu.cn/).
+
 
 ---
 
