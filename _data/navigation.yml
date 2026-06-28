@@ -6,8 +6,8 @@ main:
   - title: "Research Interests"
     url: "/#research-interests"
 
-  - title: "Education"
-    url: "/#education"
+  - title: "News"
+    url: "/#news"
 
   - title: "Publications"
     url: "/#publications"
@@ -15,6 +15,8 @@ main:
   - title: "Projects"
     url: "/#projects"
 
+  - title: "Education"
+    url: "/#education"
     
   - title: "Honors"
     url: "/#honors-awards"
